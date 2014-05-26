@@ -15,7 +15,7 @@ Corro, Dun of Cass Merides, waiting by the gate, watched his lifelong enemies ap
 
 Corro knew that many of the Tonor&oacute;nos regarded him with knowledge equally extensive. This was the Humano way. However - and with no arrogance whatsoever - he judged his own _imtir_ to be one of the finest present.
 
-Corro, his lean face closed, watched Heitor with iron eyes. Heitor&#8217;s father Greguru was one of the names matched to Dun Heitor. Greguru had died fourteen years before, standing against Heitor in single combat. When Heitor raised his own eyes of hawk-yellow and their gazes crossed, the clash echoed through Corro&#8217;s imtir.
+Corro, his lean face closed, watched Heitor with iron eyes. Heitor&#8217;s father Greguru was one of the names matched to Dun Heitor. Greguru had died fourteen years before, standing against Heitor in single combat. When Heitor raised his own eyes of hawk-yellow and their gazes crossed, the clash echoed through Corro&#8217;s _imtir_.
 
 _I must govern myself,_ Corro thought. For the men of Tonor&oacute;n were not there to fight. 
 
@@ -36,7 +36,7 @@ Firix bowed gracefully, and smiled at both Dun Heitor and Dun Corro. &#8220;Be s
 <br />
 ##### The Upper Hall of Cass Merides
 
-The walls were high and the floor somewhat sunken. The clerestory windows let in the morning, which shone on the brilliant white walls, flooding the assembly chamber with clear light. Cool fall breezes drifted in.
+The walls were high and the floor somewhat sunken. Lofty clerestory windows let in the morning, which shone on the brilliant white walls, flooding the assembly chamber with clear light. Cool fall breezes drifted in.
 
 By arrangement, the Tonor&oacute;nos were assembled in the south end, the Meridezas to the north. Between them the Furnace soldiers and ambassadorial mission stood in dignified readiness, a physical presence to deter unfortunate mischance.
 
@@ -160,13 +160,13 @@ For Patru, the peace of the moment was slightly marred. Faintly, traveling over 
 
 &#8220;I find such beauty all the more impressive, knowing that it was fashioned by slaves,&#8221; said Patru.
 
-Heitor halted, and rounded on Patru abruptly. &#8220;Who are you, Outwalker, to criticize Humano ways?&#8221; he snarled. Zemena, hearing the death-tones suddenly in his voice, stopped in turn, startled. _Walk warily, Patru, she thought. He could kill you so very quickly._
+Heitor halted, and rounded on Patru abruptly. &#8220;Who are you, Outwalker, to criticize Humano ways?&#8221; he snarled. Zemena, hearing the death-tones suddenly in his voice, stopped in turn, startled. _Walk warily, Patru,_ she thought. _He could kill you so very quickly._
 
 Patru held himself very still for a moment, then relaxed into a strange sort of half-bow with hands spread. &#8220;Please do not mistake my meaning, Dun Heitor,&#8221; he said quietly, with no challenge in his voice - but no quaver either. The wind gentled, and a great silence seemed to lie behind it. No distant dueling Song could now be heard. &#8220;An Outwalker does not challenge the practices or beliefs of the people he walks among. And in all honesty I have found so much to admire among the Humanos&#8230; In many respects you are greater individuals than any I have encountered. This does not blind me to the qualities of your slaves.&#8221;
 
-Dun Heitor, savage fighter of the front range, stood looking full into Patru&#8217;s face for a moment, as if puzzled. Then he relaxed. &#8220;Perhaps there is something in what you say, Sor. Perhaps.&#8221; With a swift lifting of mood he turned and led the party up a wandering into a coign facing northwest, and the prospect opened awesomely before them.
+Dun Heitor, savage fighter of the front range, stood looking full into Patru&#8217;s face for a moment, as if puzzled. Then he relaxed. &#8220;Perhaps there is something in what you say, Sor. Perhaps.&#8221; With a swift lifting of mood he turned and led the party up a wandering path into a coign facing northwest, and the prospect opened awesomely before them.
 
-Evening was closing over the front range, and a huge boil of cloud was lifting over the western ridgeline, a slate gray mass between the fading sky and the hard dark line of the mountains. As if the Furnace were some ancient coal-fired monstrosity after all,_ thought Zemena. _A remnant of Waster works up there, unsuspected until now._ The last of sunset traced an edge of fire along the tops of the hulking cloud.
+Evening was closing over the front range, and a huge boil of cloud was lifting over the western ridgeline, a slate gray mass between the fading sky and the hard dark line of the mountains. _As if the Furnace were some ancient coal-fired monstrosity after all,_ thought Zemena. _A remnant of Waster works up there, unsuspected until now._ The last of sunset traced an edge of fire along the tops of the hulking cloud.
 
 &#8220;What weather do you anticipate, Dina?&#8221; Patru spoke courteously, and Zemena noted the contrast between his studious voice and Heitor&#8217;s veiled ferocity.
 
@@ -218,13 +218,13 @@ There was a step behind her, and she turned to see Firix, accompanied by her sec
 
 Zemena summoned her _imtir_, letting the mnemonics form all around her. She delegated conversation to a light social persona within her mind, and put her _imtir_ to the task of studying Firix.
 
-Slowly, under the cover of that modest social chatter, Zemena integrated observations: minute details of face and voice and posture, word choice, conversational flow. As she did so she became more alarmed. The strain she had seen in Firix was a strongly controlled suspense - something had not yet happened. She began to delve into that. In brief exasperation, she realized that if only Firix were Humano, she could Sing into the Ambassador&#8217;s imtir.
+Slowly, under the cover of that modest social chatter, Zemena integrated observations: minute details of face and voice and posture, word choice, conversational flow. As she did so she became more alarmed. The strain she had seen in Firix was a strongly controlled suspense - something had not yet happened. She began to delve into that. In brief exasperation, she realized that if only Firix were Humano, she could Sing into the Ambassador&#8217;s _imtir_.
 
-It was a briefly chilling thought: _Have we so specialized ourselves that we are at a disadvantage when dealing with a formidable _imtir_-blind individual?_
+It was a briefly chilling thought: _Have we so specialized ourselves that we are at a disadvantage when dealing with a formidable_ imtir_-blind individual?_
 
 Her concentration was almost broken as Patru and Alesa walked up the steps as well. _I do not need you here_, she thought; and then, _or do I?_ She nodded with her surface personality, and spoke with them comfortably, letting Firix to engage Patru in conversation.
 
-Her true mind, seeing and hearing through the imtir, was becoming more unsettled. Suddenly from her _sconsciende_ a brief flash of insight emerged:
+Her true mind, seeing and hearing through the _imtir_, was becoming more unsettled. Suddenly from her _sconsciende_ a brief flash of insight emerged:
 
 The secretary.
 
