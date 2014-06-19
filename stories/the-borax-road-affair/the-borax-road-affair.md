@@ -174,7 +174,7 @@ Evening was closing over the front range, and a huge boil of cloud was lifting o
 
 &#8220;You smile, Sor,&#8221; said Heitor to Patru. His voice, in a swift change of mood, was oddly companionable.
 
-&#8220;I smile at a memory, Dun Heitor. I once watched preparations for a polar storm on the Siberian coast, in a port called Xishia. I was in port there, waiting for a ship bound for Yokomata. I worked at a chandlery - a dealer in fittings and supplies for ships - improving my Siberian and learning to keep the books.
+&#8220;I smile at a memory, Dun Heitor. I once watched preparations for a polar storm on the Siberian coast, in a port called Xishia. I was in port there, waiting for a ship bound for Yokomata. I worked at a chandlery - a dealer in fittings and supplies for ships - improving my Siberian and learning to keep the books.&#8221;
 
 &#8220;What have you _not_ done?&#8221; cried Zemena in amusement.
 
