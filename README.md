@@ -10,7 +10,7 @@ The sparse and rambling synopsis below is of course subject to change. Parts of 
 
 #### Contents
 ##### [/stories](./stories)
->>[The Borax Road Affair](./stories/the-borax-road-affair)
+>[The Borax Road Affair](./stories/the-borax-road-affair)
 
 ##### /background
 
