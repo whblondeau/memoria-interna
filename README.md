@@ -1,16 +1,22 @@
-### Memoria Interna
+### Memoria Interna: Tales of the Circumpolar
 
 _Note: all dates are here given according to the Gregorian Calendar, extended proleptically forward without regard to changes in calendrical or cultural conventions in the imagined future history._
 
-This project is by intention a group of related stories set in the North American continent and the Polar Ocean _ca._ 2560, following a fairly complete collapse of the global industrial civilization that flourished from the 19th to the 21st centuries; and the concomitant climate changes, mass migrations, and depopulation of human and other ecological communities.
+This project is by intention a group of related stories set in the North American continent and the regions around the Polar (Arctic) Ocean _ca._ 2560, following a fairly complete collapse of the global industrial civilization that flourished from the 19th to the 21st centuries; and the concomitant climate changes, mass migrations, and collapse of human and other ecological communities.
 
 The stories, as developed, will be in the /stories subdirectory of this repository.
 
-The synopsis below is of course subject to change. Parts of it will be detailed in supporting documents in /background.
+The sparse and rambling synopsis below is of course subject to change. Parts of it will be expanded in supporting documents in /background.
+
+#### Contents
+##### [/stories](./stories)
+>>[The Borax Road Affair](./stories/the-borax-road-affair)
+
+##### /background
 
 #### Geographical distribution of humans
 
-##### The Polar Ocean
+##### The Circumpolar
 With the equatorial regions closed to human habitation, and the former "temperate zones" grown very much intemperate, the melting of the Arctic ice has shifted the core of human civilization to the coasts of the Polar Ocean. As has always been the case with a central sea of any kind, the Polar has become the maritime crossroads of the world. 
 
 The peoples of the Polar Ocean are generally culturally vigorous. The primary constraint on their population size is the availability of food. Permaculture has been adapted, in many ingenious ways, to the weak insolation of the arctic circle. Also, the Polar Ocean is still in many regions ecologically alive, and a limited fishing industry is possible (although it took a number of wars to impose a sustainable regimen.) Still, food is not easily found.
