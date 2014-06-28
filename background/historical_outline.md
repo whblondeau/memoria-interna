@@ -5,10 +5,15 @@ _[Note: as customary, all dates Gregorian]_
 The world of the Circumpolar is the product of a tumultuous period in history. This period is generally taken by historians to begin with 2000, when the prospects of diminishing availability of energy (and, secondarily, other resources) were beginning to be acknowledged by a significant fraction of the Waster populations of Earth; and the early onset of global warming was evident.
 
 The period was dominated by five overarching historical and human ecological trends:
+
 1. The decline of the imperial powers of the Waster years.
+
 2. Rapid global reduction in human populations.
+
 3. Climate-driven migrations.
+
 4. Ecological damage to oceanic as well as landmass systems.
+
 5. The development of the elements - ideological/religious, political, ecological, and mental - of Successor civilization.
 
 These five trends proceeded more or less in tandem, each advancing in punctuated equilibrium, each affecting the others.
