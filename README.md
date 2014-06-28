@@ -4,24 +4,27 @@ _Note: all dates are here given according to the Gregorian Calendar, extended pr
 
 This project is by intention a group of related stories set in the North American continent and the regions around the Polar (Arctic) Ocean _ca._ 2560, following a fairly complete collapse of the global industrial civilization that flourished from the 19th to the 21st centuries; and the concomitant climate changes, mass migrations, and collapse of human and other ecological communities.
 
+#### Technologies of mind
+The story cycle gets its name from the old Spanish term for "Internal Memory", a reference to schools of superior development of the human mental and sensory faculties. Humans, denied the degree of material technology available to high-energy cultures, have turned their attention to the rediscovery of the old Arts of Memory and related mental systems.
+
 The stories, as developed, will be in the /stories subdirectory of this repository.
 
-The sparse and rambling synopsis below is of course subject to change. Parts of it will be expanded in supporting documents in /background.
+The sparse and rambling synopsis below is of course subject to change. Parts of it will be expanded into supporting documents in /background.
 
 #### Contents
 ##### [/stories](./stories)
 >[The Borax Road Affair](./stories/the-borax-road-affair)
 
 ##### /background
+>[Languages of the Circumpolar](./background/human_languages.md)
 
-#### Geographical distribution of humans
 
-##### The Circumpolar
+#### The Circumpolar
 With the equatorial regions closed to human habitation, and the former "temperate zones" grown very much intemperate, the melting of the Arctic ice has shifted the core of human civilization to the coasts of the Polar Ocean. As has always been the case with a central sea of any kind, the Polar has become the maritime crossroads of the world. 
 
 The peoples of the Polar Ocean are generally culturally vigorous. The primary constraint on their population size is the availability of food. Permaculture has been adapted, in many ingenious ways, to the weak insolation of the arctic circle. Also, the Polar Ocean is still in many regions ecologically alive, and a limited fishing industry is possible (although it took a number of wars to impose a sustainable regimen.) Still, food is not easily found.
 
-The Polar Ocean has a history of violent conflict, mostly triggered by contention for resources, but also by ideological conflict between Emergist thought and a number of other political organizing principles. Emergism - a stringent application of ecological and thermodynamic realities to economic and political theory - has become the politically dominant ideology in the Polar Ocean region, as well as having strong influence in the rest of the habitable northern hemisphere. 
+The Circumpolar has a history of violent conflict, mostly triggered by contention for resources, but also by ideological conflict between Emergist thought and a number of other political organizing principles. Emergism - a stringent application of ecological and thermodynamic realities to economic and political theory - has become the politically dominant ideology in the Polar Ocean region, as well as having strong influence in the rest of the habitable northern hemisphere. 
 
 ##### North America
 With climate change, the southwestern part of North America has become uninhabitable in any meaningful sense. The center of the continent is known as the Dry, because it has become extremely arid. South of the location of present-day Denver, the dry becomes the Dead Dry, in which the heat is so fierce that nobody can survive unless they have underground dwellings and a reliable source of water - aquifer recharge in this region has stopped due to lack of meaningful surface precipitation. 
@@ -54,5 +57,4 @@ One ubiquitous cultural phenomenon has been the reimagining of the Wasters as a 
 
 The scientific and technological achievements of the industrial civilization are increasingly forgotten. 
 
-#### Technologies of mind
-The story cycle gets its name from the old Spanish term "Internal Memory", a reference to schools of superior development of the human mental and sensory faculties. Humans, denied the degree of material technology available to high-energy cultures, have turned their attention to the rediscovery of the old Arts of Memory and related mental systems.
+
