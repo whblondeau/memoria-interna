@@ -5,9 +5,9 @@ _Note: all dates are here given according to the Gregorian Calendar, extended pr
 This project is by intention a group of related stories set in the North American continent and the regions around the Polar (Arctic) Ocean _ca._ 2560, following a fairly complete collapse of the global industrial civilization that flourished from the 19th to the 21st centuries; and the concomitant climate changes, mass migrations, and collapse of human and other ecological communities.
 
 #### Technologies of mind
-The story cycle gets its name from the old Spanish term for "Internal Memory", a reference to schools of superior development of the human mental and sensory faculties. Humans, denied the degree of material technology available to high-energy cultures, have turned their attention to the rediscovery of the old Arts of Memory and related mental systems.
+The story cycle gets its name from the old Spanish term for "Internal Memory", a reference to schools of superior development of the human mental and sensory faculties. Humans, denied the degree of material technology available to high-energy cultures, have turned their attention to the rediscovery of the old [Arts of Memory](http://en.wikipedia.org/wiki/Art_of_memory) and related mental disciplines.
 
-The stories, as developed, will be in the /stories subdirectory of this repository.
+The stories, as developed, will be in the [/stories](./stories) subdirectory of this repository.
 
 The sparse and rambling synopsis below is of course subject to change. Parts of it will be expanded into supporting documents in /background.
 
@@ -15,7 +15,7 @@ The sparse and rambling synopsis below is of course subject to change. Parts of 
 ##### [/stories](./stories)
 >[The Borax Road Affair](./stories/the-borax-road-affair)
 
-##### /background
+##### [/background](./background)
 >[Languages of the Circumpolar](./background/human_languages.md)
 
 
@@ -39,22 +39,22 @@ On the eastern seaboard of North America, organized civilization tends to increa
 #### General characteristics of human communities
 
 ##### Permaculture
-The most distinctive organizing principle of human communities in this time is the widespread use of permaculture as a base food resource. This has a number of profound effects.
+The most distinctive organizing principle of human communities in this time is the widespread use of [permaculture](http://en.wikipedia.org/wiki/Permaculture) as a base food resource, and secondarily as a social and ethical ideological resource. This has a number of profound effects.
 
 * Permaculture allows for greater density of settlement.
 
 * Permaculture tends to support small units of political and social organization. Intensive gardening is much less expansive than extensive field agriculture: transportation and storage of the yields is far less demanding, favoring autonomous use of gardens.
 
-* Permaculture requires a much higher level of gardening skill, ecological literacy, general craftsmanship, and mechanical aptitude than was the rule for agricultural societies in the past. This pushes cultures in the direction of valuing education, and limits the utility of unskilled labor. Also - just as industrial civilization drove widespread literacy, mathematical ability, and general scientific knowledge - permacultural society drives a level of whole systems thinking unprecedented in human history.
+* Permaculture requires a much higher level of gardening skill, ecological literacy, general craftsmanship, and mechanical aptitude than was the rule for agricultural societies in the past. This pushes cultures in the direction of valuing education, and limits the utility of unskilled labor. Also - just as industrial civilization drove widespread literacy, mathematical ability, and general scientific knowledge - permacultural society drives a level of [whole systems thinking](http://en.wikipedia.org/wiki/Systems_thinking) unprecedented in human history.
 
 * Permaculture is a long-term investment compared to other forms of agriculture. It's very difficult for a permaculture-based village to up sticks and move somewhere else; this was never easy for agricultural communities in the past, but where traditional agriculture requires a year or two of hard work to establish itself in a new location, permaculture can take decades to really take hold.
 
 
 #### The Wasters
-Contemporary humans refer to the people of industrial civiilization as "Wasters". Due to the disruptions of decline, accurate historical records of industrial civilization have become rare. In the absence of any real historical understanding, the Time of the Wasters has become a convenient peg on which to hang all sorts of cultural narratives, increasingly woven out of creative guesswork as the centuries pass.
+People of the Circumpolar refer to the people of industrial civiilization (i.e., us, gentle reader) as "Wasters". Due to the disruptions of decline, accurate historical records of industrial civilization have become rare. In the absence of any real historical understanding, the Time of the Wasters has become a convenient peg on which to hang all sorts of cultural narratives, increasingly woven out of creative guesswork as the centuries pass.
 
 One ubiquitous cultural phenomenon has been the reimagining of the Wasters as a completely corrupt and fundamentally evil apocalyptic phase in human history. The proposition is perhaps arguably correct in objective terms; beyond that, however, it has become the foundation of ethical and moral systems worldwide. All major remaining ethical and religious traditions have incorporated - with varying degrees of sophistication - severe proscriptions against Waster thought and behavior. Most of them have adopted counter-principles derived from principles of ecological economics and systems theory.
 
-The scientific and technological achievements of the industrial civilization are increasingly forgotten. 
+The scientific and technological achievements of the industrial civilization are increasingly forgotten, but legends about Waster technologies are a flourishing folk tradition. 
 
 
