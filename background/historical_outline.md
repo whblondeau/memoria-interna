@@ -58,3 +58,20 @@ The following list of "Nine Great Migrations" is proposed in full awareness of t
 ### The Dying Ecologies
 
 ### Successor Civilization
+
+The most important point about the emergence of Successor civilizations is that those civilizations were no more monolithic in political, linguistic, and social terms than the Industrial civilization that preceded them. 
+
+However, global Industrial civilization did, around the turn of the 20th-21st century, achieve an almost complete ideological domination of the human race: whether a society numbered among the haves or the have-nots, it tended to accept the basic premises of industrial civilization.
+
+It's probably worth explicitly stating these premises in their historical context.
+
+#### Premises of Industrial Civilization
+
+ - *Human ingenuity is the ur-good in economics*
+ - *Economic "externalities" are not significant*
+ - *Industrial civilization has attained an historical phase-change that can be perpetuated*
+ 
+
+
+
+
