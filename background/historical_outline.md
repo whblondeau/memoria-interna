@@ -67,9 +67,11 @@ It's probably worth explicitly stating these premises in their historical contex
 
 #### Premises of Industrial Civilization
 
- - *Human ingenuity is the ur-good in economics*
- - *Economic "externalities" are not significant*
- - *Industrial civilization has attained an historical phase-change that can be perpetuated*
+ - __Human ingenuity is the ur-good in economics:__ The economic maxim that _all goods are substitutable_ logically requires a non-substitutable "primary good" that cannot be replaced. In physical reality, this is generally recognized as Energy; the Waster concept was _human ingenuity_, a concept of 
+
+ - __Economic "externalities" are not significant:__
+
+ - __Industrial civilization has attained an historical phase-change that can be perpetuated:__
  
 
 
