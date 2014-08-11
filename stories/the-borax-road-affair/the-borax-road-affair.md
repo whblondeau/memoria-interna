@@ -8,7 +8,7 @@ The Tonor&oacute;nos came to the Northern gate of Cass Merides under a flying au
 
 They made a proud show, approaching the Cass which had been their bitter enemy for over a generation. A picked platoon marched with the wiry ease of long practice, hawk-faced men under the floating black bandera with its dun-colored raptor insignia.
 
-Humano officers, in tan and black battle dress and flowing tan headdresses, wore the two ceremonial swords. Sergeants in dress black, and grim slave soldiers in tan uniforms, bore daggers, short swords, and short bows. They sang a short deep-voiced cadence as they marched. Following the marchers came Dun Heitor and four retainers, riding on the dryland horses that were Cass Tonor&oacute;n&#8217;s particular pride. Heitor rode easily, black headdress floating in the wind, his rolling shoulders, bristling moustachios, and fierce watchful face the very picture of a Humano warrior of the dry hills.
+Humano officers, in tan and black battle dress and flowing tan headdresses, wore the two ceremonial swords. Sergeants in dress black, and grim slave soldiers in tan uniforms, bore daggers, short swords, and short bows. They sang a short deep-voiced cadence as they marched. Following the marchers came Dun Heitor and four retainers, riding on the dryland horses that were Cass Tonor&oacute;n&#8217;s particular pride. Heitor rode easily, black headdress flowing in the wind, his rolling shoulders, bristling moustachios, and fierce watchful face the very picture of a Humano warrior of the dry hills.
 
 
 Corro, Dun of Cass Merides, waiting by the gate, watched his lifelong enemies approach with admiration and cold hatred. For a moment Corro closed his eyes, summoning his _imtir_, his internal sensory mnemonic store of memory. Complex, distinctive, disturbing images populated the great chambers of his mind, each the index of some part of Corro&#8217;s lifetime of learning and action. When he opened his eyes again, the mnemonics shifted, some opening and some receding, finding attachment points in his field of vision. He beheld the Tonor&oacute;nos with an overlay of augmented understanding, knowing the names and reputations of men he had scarcely met, knowing scraps and streaks of their histories, reputed moves and styles of fighting. He knew too the names of his comrades they had killed.
@@ -27,7 +27,7 @@ The tan and black of Tonor&oacute;n marched to a halt. Facing them to the right 
 
 Firix the ambassador, author of that peace, a beautiful woman with striking auburn hair blowing in the morning breeze, her garb glowing fire-green in the sunlight, stood proudly with her Surveyor Illiar, a tall woman with a perpetually puckered brow. The ambassadorial party was positioned between her soldiers and the gate: pragmatically out of the line of fire should the Furnace troops need to employ those well-tended firearms at their belts.
 
-&#8220;A good morning for peace,&#8221; Trihanj murmured next to him. She was Corro&#8217;s cousin, and the most prominent of his syndics. A tall, rather thin woman, she wore her dress uniform with poise - but her sword, dagger, short bow, and quiver with familiar ease. An extremely likable person. She had attempted to kill Corro twice before acknowledging his superior Potential.
+&#8220;A good morning for peace,&#8221; Trihanj murmured to Corro. She was a second cousin on his father&#8217;s side, and the most prominent of his syndics. A tall, rather thin woman, she wore her dress uniform with poise - but her sword, dagger, short bow, and quiver with the kind of familiar ease that surpasses poise. An extremely likable person. She had attempted to kill Corro twice before acknowledging his superior Potential.
 
 &#8220;A good day indeed,&#8221; he agreed. It was a bright cool morning, the harsh heat of summer having at last given way.
 
@@ -44,7 +44,7 @@ By arrangement, the Tonor&oacute;nos were assembled in the south end, the Meride
 
 &#8220;Do not dismiss them,&#8221; Heitor said. &#8220;They are well trained, and their combat marksmanship is most effective. Their guns could kill far too many of us if we were foolish enough to attack them. It would be a great kindness to Cass Merides to do that. This talk is idle.&#8221;
 
-Humanos are well trained to read voices. Siscozo, not for the first time, heard in Heitor&#8217;s speech the overtones of a cold killer. Yet Heitor, despite his ferocity, thought always with discipline. Siscozo&#8217;s boastful quarrelsomeness impressed the Dun not at all. Which suited Siscozo well: he had invested many hours in making Heitor think him a talented braggart.
+Humanos are well trained to read voices. Siscozo, not for the first time, heard in Heitor&#8217;s speech the overtones of a cold and assured killer. Yet Heitor, despite his ferocity, thought always with discipline. Siscozo&#8217;s boastful quarrelsomeness impressed the Dun not at all. Which suited Siscozo well: he had invested many hours in making Heitor think him a talented braggart.
 
 The talent, at least, was genuine.
 
@@ -56,7 +56,7 @@ Firix the Ambassador called the meeting to order. She spoke far more briefly and
 
 &#8220;The history of this conflict is well known to all present. However, the Furnace&#8217;s interest in amending it has been a matter held in confidence. I shall now explain it in full.&#8221; From the Humanos at both ends of the Hall came a sense of renewed attention. _These people have superb focus,_ she thought. _Speaking to them is easy, but they will notice the slightest slip._ She pitched her voice slightly lower, holding them with her eyes. &#8220;The Furnace, I regret to say, is facing concerns about sustainability.&#8221;
 
-Dead silence. _That was not what they expected to hear. Good. Corro and Heitor have kept the topic to themselves._ &#8220;Raw materials? Metals? The City and its surroundings have been thoroughly picked over&#8230; In time, we may find that our ability to create concentrated-energy products is no longer a paying business proposition. When that happens, we genuinely do not know what will become of us. The Furnace can never be a closed system. Even now we are beginning to recover and resmelt the filings from our machining processes.&#8221;
+Dead silence. _That was not what they expected to hear. Good. Corro and Heitor have kept the topic to themselves._ &#8220;Raw materials? Metals? The City and its surroundings have been thoroughly picked over&#8230; In time, we may find that our ability to create concentrated-energy products is no longer a paying business proposition. When that happens, we genuinely do not know what will become of us. The Furnace can never be a closed system. For some time now we have been painstakingly recovering and resmelting the filings from our machining processes.&#8221;
 
 Her audience understood. The Humanos were a sword-and-bow culture for reasons similar to her argument. They were very dedicated to being able to craft their own tools, instruments, and weapons. _Successors make their own._
 
@@ -66,7 +66,7 @@ Her audience understood. The Humanos were a sword-and-bow culture for reasons si
 
 The sudden buzz of exclamation that swept through the disciplined listeners gladdened her. She had chosen to speak to a large group all at once, and it was working. Humanos were deeply educated - _Great Mother Within, even the_ slaves _are listening!_
 
-&#8220;Mirrors do not seem like such a great matter, do they? Not when compared to the truly difficult things you are willing to buy from us: precision optics, or bearing races, or bandsaw blades, or hardened machine tools, or long guns that can kill at fifteen hundred meters? But much to our dismay, much to our embarassment - our humiliation - we neglected a simple fact until too late.
+&#8220;Mirrors do not seem like such a great matter, do they? Not when compared to the truly difficult things you are willing to buy from us: precision optics, or bearing races, or bandsaw blades, or hardened machine tools, or long guns that can kill at twelve hundred meters? But much to our dismay, much to our embarassment - our humiliation - we neglected a simple fact until too late.
 
 &#8220;The only feasible substrate for our mirrors is borosilicate glass. Our stores of borax are almost gone. And the only natural sources of borax are far to the south, in the Dead Dry.&#8221;
 
@@ -88,7 +88,7 @@ Educated the Humanos might be, but a frisson of superstitious awe rustled throug
 
 That startled them. Another rustle swept through the Hall.
 
-&#8220;But we need a road for the machines, a broad and well-founded road from our funicular terminus at Eastwall Station. With the hard topography, the only realistic route runs along the country between Tonor&oacute;n and Merides. Our engineers and workers cannot fulfill such a great work in a land that is the frontier of battle.
+&#8220;But we need a road for the machines, a broad and well-founded road from our funicular terminus at Eastwall Station, down to the Calicar Barran&#8217;. Ironic, isn't it, that the worst of the journey will be the short stretch from the mountains down to the desert, here? With the hard topography, the only realistic route runs along the country between Tonor&oacute;n and Merides. Our engineers and workers cannot fulfill such a great work in a land that is the frontier of battle.
 
 &#8220;For the best of reasons, the Furnace desires peace between you. That is why I am here.&#8221;
 
@@ -99,13 +99,15 @@ On the evening of the same day, Dina Zemena looked with more than a little satis
 
 The guests were well distributed. Tonor&oacute;nos, Meridezas, and the Furnace delegates and officers mingled in comfort and fellowship. Their day had been productive and hopeful, and the optimism of the Humano temperament was showing. Besides the diplomatic attendees, a scattering of other guests were seated among them, of varied stations and kinds: the noble and beautiful Carnente of Cass Feredor conversed elegantly with Sor Sergey of Tonor&oacute;n and the Ambassador&#8217;s secretary Gonsevero, a small, punctilious man with swift eyes and voluble hands. Patru the Outwalker, the roaming scholar from the Nofori Tanglewood far to the east, was a prisoner. He had been taken months ago, and appeared to find his captivity light and courteous. Zemena nursed a growing insight that he was in no hurry to leave: Tanglewood Outwalkers, half legendary, had a lifelong calling to travel the world and eventually bring their knowledge back home. _The Tanglewoods are so far from anywhere, out there in the Dry. They are wise to fear the effects of isolation. And here sits this strange man, with his head full of inexhaustable stories and a half dozen languages on his tongue&#8230; what can he think of us, the people who have imprisoned him?_
 
-Patru, though his speech and knowledge had won him a respected place among the noblest of Cass Merides, was still a prisoner. Behind his chair, waiting with patient vigilance against the wall, stood his jailor Alesa: a Hound, slavestock bred for reflexes, focus, and wide-spectrum awareness; trained to kill and to slink, assassin and commando.
+Patru&#8217;s speech and knowledge and strength of character had won him a respected place among the noblest of Cass Merides; but a prisoner he remained. Behind his chair, waiting with patient vigilance against the wall, stood his jailor Alesa: a Hound, human slavestock bred for reflexes, focus, and wide-spectrum awareness; trained to kill and to slink, assassin and commando.
 
 Zemena looked with regret and something like love at the barren Hound. Proud creature, Alesa, from the greatest of all the bloodlines Zemena had cultivated. More gifted than any of the other Hounds; not beautiful when considered as a human woman, but surpassingly beautiful to the Breedmistress&#8217;s eye. Perfect conformation, reflexes almost inhumanly quick and correct, brilliantly free of flaw, except the one greatest flaw.
 
 How Dun Greguru had scowled when he&#8217;d learned. He had commanded that Alesa be thrown to the Arena until she died or was so badly injured as to be put down. Zemena&#8217;s regret was as bitter as his own - worse, since as Breedmistress she was responsible for all of the breedings in Merides holdings - but she was long accustomed to governing her husband&#8217;s abrupt ferocity. &#8220;No, my dear, I can&#8217;t have that,&#8221; she&#8217;d said. &#8220;The loss is great, but lesser measures must suffice. I have been working with collateral lines, hoping to rescue her traits. But in her own right, she&#8217;ll be a fine bodyguard for the Cass - I won&#8217;t waste her.&#8221;
 
-Greguru had seen the proof of Zemena&#8217;s wisdom before he died. Alesa had saved their son&#8217;s life twice in combat with a special squadron from Cass Rumoro that had attacked while Greguru was away. After Dun Corro had succeeded his father, Alesa had stopped an assassination attempt by his cousin Trihanj, killing Trihanj&#8217;s two Hounds, and three of her retainers, as she did.
+Greguru had seen the proof of Zemena&#8217;s wisdom before he died. Alesa had saved their son&#8217;s life twice in combat with a special squadron from Cass Rumoro that had attacked while Greguru was away.
+
+After Dun Corro had succeeded his father, Alesa had stopped an assassination attempt by his cousin Trihanj, killing Trihanj&#8217;s two Hounds, and three of her retainers, as she did.
 
 _And here we all sit, she thought. Impetuous Trihanj is now Corro&#8217;s most loyal syndic, and Corro, triumphant in war and intrigue, the exemplar of Humano Potential, sits at the head of the Table - while I, as Breedmistress, review the ladies being paraded for his notice._
 
@@ -180,7 +182,7 @@ Evening was closing over the front range, and a huge boil of cloud was lifting o
 
 &#8220;I have not escaped my captivity in Cass Merides,&#8221; said Patru gravely. Heitor chuckled, and Zemena smiled crookedly. _I like Heitor_, she realized in mild surprise.
 
-&#8220;Xishia, especially during the times of year when the sun is not hidden,&#8221; Patru said, &#8220;is a mad confusion - a thousand voices shouting and chaffering, hawking wares, the bawling of bullocks and shrieking of seagulls, clanging of gongs on the buoys and in the temples, the rattle and squeal of blocks and ropes on the wharves. Hulls creak and groan when the lifting waves come down the channels, rolling the rafted junks against one another. A place of stinks too, for the city is crude and careless in its handling of wastes.&#8221; Patru shook his head. &#8220;a wild and careless folk, but I liked them.
+&#8220;Xishia, especially during the times of year when the sun is not hidden,&#8221; Patru said, &#8220;is a mad confusion - a thousand voices shouting and chaffering, hawking wares, the bawling of bullocks and shrieking of seagulls, clanging of gongs on the buoys and in the temples, the rattle and squeal of blocks and ropes on the wharves. Hulls creak and groan when the lifting waves come down the channels, rolling the rafted junks against one another. A place of stinks too, for the city is crude and indifferent in its handling of wastes.&#8221; Patru shook his head. &#8220;a wild and careless folk, but I liked them.
 
 &#8220;All folk of the Polar Sea know how to read storm sign. But no two of them agree on the reading, it seems.&#8221; He smiled wryly. &#8220;Until the signs become obvious&#8230; and then it&#8217;s like an anthill stirred with a stick.&#8221;
 
@@ -210,7 +212,7 @@ Dina Zemena stood on a prow of old masonry that jutted from Cass Meridess&#8217;
 
 The wind, chill changeable remnant of the _katabateco_ that had howled through the night, buffeted Zemena and riffled her cloak, sending its hem flapping this way and that as the wind switched.
 
-Zemena enjoyed the wind, had always enjoyed windy mornings, but something tense loomed in her thoughts today. She had watched the review party ride away down the winding lanes of the gardenlands, Corro and Heitor in comfortable proximity, Siscozo and the Tonor&oacute;no scribe escorted by a good dozen soldiers, Sor Won leading a similar detachment of Merideza soldiers and two Hounds. The Furnace surveyor was with them, to show them the intended track of the Borax Road.
+Zemena enjoyed the wind, had always enjoyed windy mornings, but something tense loomed in her thoughts today. She had watched the review party ride away down the winding lanes of the gardenlands, Corro and Heitor in comfortable proximity, Siscozo and the Tonor&oacute;no scribe escorted by a good dozen soldiers, Sor Won leading a similar detachment of Merideza soldiers and two Hounds. The surveyors: Illiar of the Furnace,  was with them, to show them the intended track of the Borax Road.
 
 She watched them leave the gardenlands, small with distance, and wind down through the barren hills and shallow ridges until they were lost to view.
 
