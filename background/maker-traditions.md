@@ -1,5 +1,7 @@
 ## Makers
 
+_Note: this is intended as a first-cut adaptation of the intoduction to the fictional scholarly work "Origins of the Sisterhood of the Maker", by Brigitta Olafsdottir, 2nd ed., published by the Hellisheiði University Press, 2351 Gregorian, by permission of His Majesty Emperor Hallgrímur I._
+
 In the aftermath of the collapse of the Western Roman Empire, a great deal of classical knowledge was irretrievably lost. What was saved was saved through a very unlikely mechanism: Christian monasteries, especially those in remote areas. There&apos;s a book called ["How the Irish Saved Civilization"]() that describes the premier example of this process.
 
 The monastic preservation of classical knowledge seems surfprising, at least at first, because most of what the monks so patiently copied was heretical or at least theologically dangerous according to Medieval Christian thought. The monks skated around this issue by blandly stating that the work was being done "for the glory of God". This seems like an astonishingly weak reed: Christianity is a chauvinistic and often belligerent intellectual tradition. Historically, Christians have burned or suppressed far more literary works than they&apos;ve preserved.
