@@ -30,6 +30,8 @@ There is a term in surviving late Waster literature that remains the subject of 
 
 In later centuries, all sorts of romantic nonsense emerged about the mostly forgotten origins of the Maker movement. The truth was both more prosaic and more wonderful than the legends: the Makers inevitably provided a model for getting material things done when the supply chains of the Waster world, link by link, broke down.
 
+In so doing, the Makers preserved skills and practices that would otherwise probably have been lost.
+
 #### Early Makerspaces: Frail Shoots
 
 The beginnings of makerspaces were "community spaces", nurtured by the prosperity of the failing Waster years. Even as it fell apart, Waster civilization retained standards of discretionary wealth hard for subsequent cultures to truly understand. It was not too difficult for a few enterprising individuals to cobble together a space and some donations of equipment. This was often further supported by "grants", a typically Waster standardization of generosity.
