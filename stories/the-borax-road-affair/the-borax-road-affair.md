@@ -345,6 +345,10 @@ He shook his head. &#8220;I think you will let him believe that his use of the S
 
 Zemena smiled again, with grim approval.
 
-They looked out over the tumbled dropping hills. Patru traced the great Road that would never be built, imagining its course and the amazing machines that would have crawled down it. In his mind&#8217;s eye he imagined heavy dull metal beasts of uncertain shape, lumbering remorselessly on great wheels down the road to the streaked twisting flats in which the engineers of the Furnace would have wrestled against fate and loss and destiny. Zemena looked down through the eyes of her _imtir_, and she saw the ghosts of Wan and doctor Garseyo and the other Meridezas, and Corro, returning. But they would not stabilize in her sight, and remained flickering ghosts.
+They looked out eastward over the tumbled dropping hills, and they looked with very different sight. 
 
-Out on the pale flatland of the Calicar Barran&#8217;, the Hell Wind hurled smoking gouts of sand and dust, dark and brown as cats in the noonday sun, crawling to the south.
+Patru studied the path of descent where the Borax Road would have gone, imagining the amazing machines that would have crawled down it. In his mind&#8217;s eye he watched them, ghosts of things that would never travel down the great Road that would never be built: heavy dull metal beasts of uncertain shape, steel and bronze and canvas and glass, lumbering remorselessly on great wheels, down past precipices and gorges, down switchbacks and over great trestle bridges of bamboo and iron, down to the streaked twisting flats in which the engineers and voyagers of the Furnace would have wrestled against fate and loss and destiny.
+
+Zemena looked down through the eyes of her _imtir_, and she saw longed-for shapes of men and women, of Wan and Doctor Garseyo and the other Meridezas, and Corro, still alive, _Manolito$apos;s Eyes, let him still be alive_, returning up the trail. But they would not stabilize in her sight, and remained flickering ghosts. Her _imtir_ did not believe.
+
+Out on the pale flatland of the Calicar Barran&#8217;, out on the eastern desert, the rising Hell Wind hurled smoking gouts of sand and dust, dark and brown as cats in the noonday sun, crawling to the south.
