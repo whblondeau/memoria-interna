@@ -307,7 +307,7 @@ She turned to Firix. &#8220;Well, now you are trebly guilty. Not only did you se
 
 Firix was not a person of great physical courage. She looked once again into Zemena&#8217;s deathly eyes, and looked away.
 
-&#8220;I will tell you,&#8221; she said then. &#8220;I will tell you, and I will leave you with the choice. I am finished in any event.&#8221;
+&#8220;I will tell you,&#8221; she said then. &#8220;I will tell you, and I will leave you with the choice. I am finished in any event.
 
 &#8220;It was El Excepcion, of course. They become more powerful in Furnace politics with every month that passes.&#8221; She looked straight at Zemena, and then at Patru. &#8220;I am a Successionist, of course. Perhaps even more than any of you proud Humanos.
 
