@@ -21,7 +21,7 @@ _I must govern myself,_ Corro thought. For the men of Tonor&oacute;n were not th
 
 <br />
 
-Three forces met before the North Gate in formation, distinct blocks of color in the flaring sun and shadow.
+Three forces met before the North Gate in formation, distinct blocks of color in the flaring sun and flying shadow.
 
 The tan and black of Tonor&oacute;n marched to a halt. Facing them to the right was rust and azure: Dun Corro and his retainers. Across the road was green and gold, an ambassadorial delegation from the Furnace, which had arrived the evening before. Their honor guard of thirty burly soldiers stood as guarantors of the peace.
 
