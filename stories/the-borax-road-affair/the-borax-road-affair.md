@@ -6,7 +6,7 @@
 
 The Tonor&oacute;nos came to the Northern gate of Cass Merides under a flying autumn morning. Strips of gray and white clouds ran down a stiff northwesterly breeze. Above them the sky was blue and deep, stitched with the dark wheeling forms of hawks and vultures.
 
-The picked platoon made a proud show, approaching the Cass which had been their bitter enemy for over a generation. The road wound between rock outcrops, manned by Merideza sentries and archers. The Tonor&oacute;nos made as if they did not see the armed foemen above. They marched along the hardpack surface with the wiry ease of long practice, hawk-faced men under the floating black bandera with its dun-colored raptor insignia.
+The picked platoon made a proud show, approaching the Cass which had been their bitter enemy for over a generation. The road wound between slopes and rock outcrops, manned by Merideza sentries and archers. The Tonor&oacute;nos made as if they did not see the armed foemen above. They marched along the hardpack surface with the wiry ease of long practice, hawk-faced men under the floating black bandera with its dun-colored raptor insignia.
 
 Humano officers, in tan and black battle dress and flowing tan headscarves, wore the two ceremonial swords. Sergeants in dress black, and grim slave soldiers in tan uniforms, bore daggers, short swords, and short bows. They sang a short deep-voiced cadence as they marched. Following the marchers came Dun Heitor with a small crew of dignitaries and retainers, riding on the dryland horses that were Cass Tonor&oacute;n&#8217;s particular pride. Heitor rode easily, black headdress flowing in the wind, his rolling shoulders, bristling moustachios, and fierce watchful face the very picture of a Humano warrior of the dry hills.
 
@@ -15,7 +15,7 @@ Corro, Dun of Cass Merides, waiting by the gate, watched his lifelong enemies ap
 
 Corro knew that many of the Tonor&oacute;nos regarded him with knowledge equally extensive. This was the Humano way. However—and with no arrogance whatsoever—he judged his own _imtir_ to be one of the finest present.
 
-Corro, his lean face closed, watched Heitor with iron eyes. Corro&#8217;s father Greguru was one of the names his internal memory matched to Dun Heitor. Greguru had died fourteen years before, standing against Heitor in single combat. When Heitor raised his own eyes of hawk-yellow and their gazes crossed, the clash echoed through Corro&#8217;s _imtir_.
+Corro, his lean face closed, watched Heitor with iron eyes. Corro&#8217;s father Greguru was one of the names his internal memory matched against Dun Heitor. Greguru had died fourteen years before, standing against Heitor in single combat. When Heitor raised his own eyes of hawk-yellow and their gazes crossed, the clash echoed through Corro&#8217;s _imtir_.
 
 _I must govern myself,_ Corro thought. For the men of Tonor&oacute;n were not there to fight. 
 
@@ -44,7 +44,7 @@ By arrangement, the Tonor&oacute;nos were assembled in the south end, the Meride
 
 &#8220;Do not dismiss them,&#8221; Heitor said. &#8220;They are well trained, and their combat marksmanship is most effective. Their guns could kill far too many of us if we were foolish enough to attack them. It would be a great kindness to Cass Merides to do that. This talk is idle.&#8221;
 
-Humanos are well trained to read voices. Siscozo, not for the first time, heard in Heitor&#8217;s speech the overtones of a cold and assured killer. Yet Heitor, despite his ferocity, thought always with discipline. Siscozo&#8217;s boastful quarrelsomeness impressed the Dun not at all. Which suited Siscozo well: he had invested many hours in making Heitor think him a talented braggart.
+Humanos are well trained to read voices. Siscozo, not for the first time, heard in Heitor&#8217;s speech the overtones of a cold and assured killer. Yet Heitor, despite his ferocity, thought always with deliberate discipline. Siscozo&#8217;s boastful quarrelsomeness impressed the Dun not at all. Which suited Siscozo well: he had invested many hours in making Heitor think him a talented braggart.
 
 The talent, at least, was genuine.
 
