@@ -106,9 +106,48 @@ She spent a slow moment sweeping the crowd with her gaze. _I like these people_.
 
 Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapsed subtly into the storytelling style of speech common in the Humano Casas.
 
-&#8220;Corro challenged Heitor to a duel. Heitor and his seconds went to the place appointed, and waited for Corro. Corro, as all know, was late. And then, he was very late. Heitor and his seconds began to scoff, and then to mock outright. At last Heitor, in great good humor, said that Corro was clearly afraid to show himself. 'But perhaps he lurks nearby,' Heitor told his compadres. And then Heitor, one of the great Singers of the Front Range, began to Sing.
+&#8220;Corro challenged Heitor to a duel. Heitor and his seconds went to the place appointed, and waited for Corro. Corro, as all know, was late. And then, he was very late. Heitor and his seconds began to scoff, and then to mock outright. At last Heitor, in great good humor, said that Corro was clearly afraid to show himself. &#2018;But perhaps he lurks nearby,&#2019; Heitor told his comrades. And then Heitor, one of the great Singers of the Front Range, began to Sing.
 
-His Song was subtle and powerful, crafted to reach Corro's _imtir_ 
+&#8220;Heitor's seconds were a woman and man of honest thought and temper; and they have both said, of this song, that it was subtle and powerful, cunningly crafted to reach Corro's _imtir_ with a burden of shame and confusion. Were Corro within earshot at all, it seemed to them, he would be forced out of hiding, either in abject shame and defeat or in reckless fury, easy meat for Dun Heitor's famous blade.
+
+&#8220;But then, the unexpected thing came to pass.&#8221; The audience knew this story, and they loved hearing it well told. Firix savored the nuances of their attention, responding and building, modulating her tone and letting the words flow shrewdly, a more formidable storyteller in her own right than they would have expected. She saw Heitor looking at her with flat controlled malice as she retold his greatest humiliation. She saw Corro listening with courteous, studious attention, waiting to see what she meant by it.
+
+&#8220;Interwoven with Heitor's Song came an answer. Corro was indeed present, and seemingly not far off; though neither Heitor nor his seconds could tell exactly where he might be. Corro's Song echoed mockingly through the trees and around the rocks, answering every verse, every insult and implication, without disclosing himself. Though Heitor strode back and forth as he sang, slipping through the thickets and leaping lightly around the outcroppings, he could not fix Corro's position. It was, by anyone's reckoning, one of the more notable duels of Humano Song.
+
+&#8220;Heitor noted Corro's great achievement, and Sang honest praise of it; but then he remarked that, though it showed great skill, it remained a Song of evasion, that Corro's cleverness could not but be thought of as, in the end, an unwillingness—&#8218;though no Humano would call it fear&#8219;—to face Heitor in open combat.
+
+&#8220;So great was the power of Song that Heitor put forth that Corro fell silent for a moment. Then, in a subdued voice that Heitor and his seconds could barely hear at first, came Corro's answer:
+
+_&#8220;In truth, there is much justice in this Singing
+Nor can I withhold respect for your deadly skill with sword
+Nor can I claim to fear the outcome of open battle
+Nor can I Sing so greatly, it seems: your_ imtir, _Sor, is a place of power
+As all Humanos must acknowledge
+And your voice a fine voice.
+
+Yet dangerous it is to dwell too deeply in your_ imtir 
+_Unmindful of the world of rocks and trees, unmindful of the soft footstep
+Dangerous to heed your own Singing too well:
+
+If it's your wish to fight me sword to sword I cannot decline
+Your Song compels me to stand forth;
+Yet in justice I must tell you 
+You're going to need another blade.&#8221;_
+
+&#8220;For so it was. Heitor's scabbard was empty; and neither he nor his seconds could well recall when it had been taken, slipped silently from behind a tree, eased from the sheath when Dun Heitor, the great Singer, was distracted by the power of his own great verses.&#8221;
+
+For a breath there was silence, then all of the Humanos in the Upper Hall broke into shouting applause; for it was a great story, and she had told it well. Even Heitor smote his hands together and shouted, giving Firix her due, for he was a very honest man and her skill was manifest. The Furnace troops and officers did not break parade discipline, but in unison shouted "Ho, Ha, Hai!", their military accolade.
+
+When the outcry had died dow, Firix saw Corro still regarding her speculatively. _I could bed that one_, she thought suddenly, but was careful to show no sign of her mild arousal. She beckoned to her Secretary, Gonsevero, who came forth with dignity, bearing a long richly made box of dark wood.
+
+&#8220;I said earlier that this conflict has been a matter of honor,&#8221; Firix said, her clear voice once again echoing through the Hall. &#8220;The Furnace accordingly proposes gifts of honor, to amend this long enmity.&#8221; From the box she withdrew a dueling sword, long and blue, supple as a living thing. There were a few gasps, but mostly the Humanos watched in silent awe: most of them had never seen a Furnace duelling blade in their lives. She had practiced diligently with swords; she was no master, but her arm and wrist had grown strong enough to hold it up in the clear morning light without a tremor. Solemnly she bore the sword to Heitor, and reversed it over her arm, offering the hilt to him.
+
+&#8220;Dun Heitor of Cass Tonor&oacute;n: the Furnace wishes you to accept this gift. Forged in the Redrock Crucible, of a single piece of the finest steel our metallurgists know how to make; fashioned by the master swordsmith Rubena.&#8221; Heitor looked at her in amazement. Rubena was a name known in the FrontRange: her work was legendary, and far beyond anything the greatest Humano swordsmiths could craft. With dignity he bowed, accepted the blade, and accorded Firix a punctilious dueling salute. She smiled and bowed in return. "Carry it to good fortune, Sor.&#8221;
+
+Returning to Gonsevero, she withdrew another sword, twin to the first. &#8220;To you, Dun Corro of Cass Merides, the Furnace offers a different thing. Rather than a gift, we offer you a choice. Will you trade the famous blade at your belt for this sword from the hand of Rubena?&#8221; She looked at him gravely. &#8220;Will you yield the trophy you took from Dun Heitor on the famous occasion I have recounted?&#8221;
+
+Corro matched her with a solemn expression of his own, but behind it Firix could see a moment of frozen indecision. Then it passed, and he drew his own blade, offered it hilt-first over his arm.
+
 
 
 
