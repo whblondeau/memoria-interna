@@ -118,7 +118,8 @@ Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapse
 
 &#8220;So great was the power of Song that Heitor put forth that Corro fell silent for a moment. Then, in a subdued voice that Heitor and his seconds could barely hear at first, came Corro's answer:
 
-_&#8220;In truth, there is much justice in this Singing
+<blockquote>
+&#8220;In truth, there is much justice in this Singing
 
 Nor can I withhold respect for your deadly skill with a sword
 
@@ -144,13 +145,14 @@ Your Song compels me to stand forth;
 
 Yet in justice I must tell you 
 
-You're going to need another blade.&#8221;_
+You're going to need another blade.&#8221;
+</blockquote>
 
-&#8220;For so it was. Heitor's scabbard was empty; and neither he nor his seconds could well recall when it had been taken, slipped silently from behind a tree, eased from the sheath when Dun Heitor, the great Singer, was distracted by the power of his own great verses.&#8221;
+&#8220;For so it was. Heitor&apos;s scabbard was empty; and neither he nor his seconds could well recall when it had been taken, slipped silently from behind a tree, eased from the sheath when Dun Heitor, the great Singer, was distracted by the power of his own great verses.&#8221;
 
 For a breath there was silence, then all of the Humanos in the Upper Hall broke into shouting applause; for it was a great story, and she had told it well. Even Heitor smote his hands together and shouted, giving Firix her due, for he was a very honest man and her skill was manifest. The Furnace troops and officers did not break parade discipline, but in unison shouted "Ho, Ha, Hai!", their military accolade.
 
-When the outcry had died dow, Firix saw Corro still regarding her speculatively. _I could bed that one_, she thought suddenly, but was careful to show no sign of her mild arousal. She beckoned to her Secretary, Gonsevero, who came forth with dignity, bearing a long richly made box of dark wood.
+When the outcry had died dow, Firix saw Corro still regarding her speculatively. _I could bed that one_, she thought irrelevantly, but was careful to show no sign of her mild arousal. She beckoned to her Secretary, Gonsevero, who came forth with dignity, bearing a long richly made box of dark wood.
 
 &#8220;I said earlier that this conflict has been a matter of honor,&#8221; Firix said, her clear voice once again echoing through the Hall. &#8220;The Furnace accordingly proposes gifts of honor, to amend this long enmity.&#8221; From the box she withdrew a dueling sword, long and blue, supple as a living thing. There were a few gasps, but mostly the Humanos watched in silent awe: most of them had never seen a Furnace duelling blade in their lives. She had practiced diligently with swords; she was no master, but her arm and wrist had grown strong enough to hold it up in the clear morning light without a tremor. Solemnly she bore the sword to Heitor, and reversed it over her arm, offering the hilt to him.
 
