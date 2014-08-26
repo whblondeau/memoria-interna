@@ -120,31 +120,19 @@ Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapse
 
 <blockquote><pre>
 &#8220;In truth, there is much justice in this Singing
-
 Nor can I withhold respect for your deadly skill with a sword
-
 Nor can I deny all fear should we meet in open battle
-
 Nor can I Sing so greatly, it seems: your imtir, Sor, is a place of power
-
 As all Humanos must acknowledge
-
 And your voice a fine voice.
 
-<br/>
 Yet dangerous it is to dwell too deeply in your imtir 
-
 Unmindful of the world of rocks and trees, unmindful of the soft footstep
-
 Dangerous to heed your own Singing too well:
 
-<br/>
 If it's your wish to fight me sword to sword I cannot decline
-
 Your Song compels me to stand forth;
-
-Yet in justice I must tell you 
-
+Yet in justice I must tell you:
 You're going to need another blade.&#8221;
 </pre></blockquote>
 
