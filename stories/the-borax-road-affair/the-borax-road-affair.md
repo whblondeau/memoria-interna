@@ -119,19 +119,31 @@ Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapse
 &#8220;So great was the power of Song that Heitor put forth that Corro fell silent for a moment. Then, in a subdued voice that Heitor and his seconds could barely hear at first, came Corro's answer:
 
 _&#8220;In truth, there is much justice in this Singing
-Nor can I withhold respect for your deadly skill with sword
-Nor can I claim to fear the outcome of open battle
-Nor can I Sing so greatly, it seems: your_ imtir, _Sor, is a place of power
+
+Nor can I withhold respect for your deadly skill with a sword
+
+Nor can I deny all fear should we meet in open battle
+
+Nor can I Sing so greatly, it seems: your imtir, Sor, is a place of power
+
 As all Humanos must acknowledge
+
 And your voice a fine voice.
 
-Yet dangerous it is to dwell too deeply in your_ imtir 
-_Unmindful of the world of rocks and trees, unmindful of the soft footstep
+<br/>
+Yet dangerous it is to dwell too deeply in your imtir 
+
+Unmindful of the world of rocks and trees, unmindful of the soft footstep
+
 Dangerous to heed your own Singing too well:
 
+<br/>
 If it's your wish to fight me sword to sword I cannot decline
+
 Your Song compels me to stand forth;
+
 Yet in justice I must tell you 
+
 You're going to need another blade.&#8221;_
 
 &#8220;For so it was. Heitor's scabbard was empty; and neither he nor his seconds could well recall when it had been taken, slipped silently from behind a tree, eased from the sheath when Dun Heitor, the great Singer, was distracted by the power of his own great verses.&#8221;
