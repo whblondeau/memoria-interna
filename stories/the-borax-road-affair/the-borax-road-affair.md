@@ -92,27 +92,27 @@ Educated the Humanos might be, but a frisson of superstitious awe rustled throug
 
 That startled them. Another rustle swept through the Hall.
 
-&#8220;But we need a road for the machines, a broad and well-founded road from our funicular terminus at Eastwall Station, down to the Calicar Barran&#8217;. Ironic, isn't it, that the worst of the journey will be the short stretch from the mountains down to the desert, here? With the hard topography, the only realistic route runs along the country between Tonor&#8220; and Merides. Our engineers and workers cannot fulfill such a great work in a land that is the frontier of battle.
+&#8220;But we need a road for the machines, a broad and well-founded road from our funicular terminus at Eastwall Station, down to the Calicar Barran&#8217;. Ironic, isn&apos;t it, that the worst of the journey will be the short stretch from the mountains down to the desert, here? With the hard topography, the only realistic route runs along the country between Tonor&oacute;n and Merides. Our engineers and workers cannot fulfill such a great work in a land that is the frontier of battle.
 
 &#8220;For the best of reasons, the Furnace desires peace between you. That is why I am here.
 
-&#8220;Nor am I here empty-handed. Enmity between Cass Tonor&#8220;n and Cass Merides is of long standing, and will not vanish because I wave my hand or because I tell you about the Furnace's mad plan for bringing borax north from the Dead Dry.&#8221;
+&#8220;Nor am I here empty-handed. Enmity between Cass Tonor&oacute;n and Cass Merides is of long standing, and will not vanish because I wave my hand or because I tell you about the Furnace&apos;s mad plan for bringing borax north from the Dead Dry.&#8221;
 
 She spent a slow moment sweeping the crowd with her gaze. _I like these people_. The thought tore her, but she was too old a hand to betray it, even to the hyperacute discernment of Humanos.
 
-&#8220;The Furnace stands ready to provide items of substantial value to Cass Tonor&#8220;n and Cass Merides. This anyone of sense would expect.
+&#8220;The Furnace stands ready to provide items of substantial value to Cass Tonor&oacute;n and Cass Merides. This anyone of sense would expect.
 
-&#8220;But of course, this is a matter of honor, not to be amended by mere goods.&#8221; Her gaze traveled to the two Duns, gathering them. "Every Humano on the front range knows the tale. The great duel between Greguru of Merides and Heitor of Tonor&#8220;n is the matter of many songs. And then, Corro's brilliant revenge.&#8221; 
+&#8220;But of course, this is a matter of honor, not to be amended by mere goods.&#8221; Her gaze traveled to the two Duns, gathering them. &#8220;Every Humano on the front range knows the tale. The great duel between Greguru of Merides and Heitor of Tonor&oacute;n is the matter of many songs. And then, Corro&apos;s brilliant revenge.&#8221; 
 
 Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapsed subtly into the storytelling style of speech common in the Humano Casas.
 
 &#8220;Corro challenged Heitor to a duel. Heitor and his seconds went to the place appointed, and waited for Corro. Corro, as all know, was late. And then, he was very late. Heitor and his seconds began to scoff, and then to mock outright. At last Heitor, in great good humor, said that Corro was clearly afraid to show himself. &#2018;But perhaps he lurks nearby,&#2019; Heitor told his comrades. And then Heitor, one of the great Singers of the Front Range, began to Sing.
 
-&#8220;Heitor's seconds were a woman and man of honest thought and temper; and they have both said, of this song, that it was subtle and powerful, cunningly crafted to reach Corro's _imtir_ with a burden of shame and confusion. Were Corro within earshot at all, it seemed to them, he would be forced out of hiding, either in abject shame and defeat or in reckless fury, easy meat for Dun Heitor's famous blade.
+&#8220;Heitor&apos;s seconds were a woman and man of honest thought and temper; and they have both said, of this song, that it was subtle and powerful, cunningly crafted to reach Corro&apos;s _imtir_ with a burden of shame and confusion. Were Corro within earshot at all, it seemed to them, he would be forced out of hiding, either in abject shame and defeat or in reckless fury, easy meat for Dun Heitor&apos;s famous blade.
 
 &#8220;But then, the unexpected thing came to pass.&#8221; The audience knew this story, and they loved hearing it well told. Firix savored the nuances of their attention, responding and building, modulating her tone and letting the words flow shrewdly, a more formidable storyteller in her own right than they would have expected. She saw Heitor looking at her with flat controlled malice as she retold his greatest humiliation. She saw Corro listening with courteous, studious attention, waiting to see what she meant by it.
 
-&#8220;Interwoven with Heitor's Song came an answer. Corro was indeed present, and seemingly not far off; though neither Heitor nor his seconds could tell exactly where he might be. Corro's Song echoed mockingly through the trees and around the rocks, answering every verse, every insult and implication, without disclosing himself. Though Heitor strode back and forth as he sang, slipping through the thickets and leaping lightly around the outcroppings, he could not fix Corro's position. It was, by anyone's reckoning, one of the more notable duels of Humano Song.
+&#8220;Interwoven with Heitor&apos;s Song came an answer. Corro was indeed present, and seemingly not far off; though neither Heitor nor his seconds could tell exactly where he might be. Corro&apos;s Song echoed mockingly through the trees and around the rocks, answering every verse, every insult and implication, without disclosing himself. Though Heitor strode back and forth as he sang, slipping through the thickets and leaping lightly around the outcroppings, he could not fix Corro&apos;s position. It was, by anyone&apos;s reckoning, one of the more notable duels of Humano Song.
 
 &#8220;Heitor noted Corro's great achievement, and Sang honest praise of it; but then he remarked that, though it showed great skill, it remained a Song of evasion, that Corro's cleverness could not but be thought of as, in the end, an unwillingness—&#8218;though no Humano would call it fear&#8219;—to face Heitor in open combat.
 
