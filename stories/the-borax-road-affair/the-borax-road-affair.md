@@ -118,7 +118,7 @@ Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapse
 
 &#8220;So great was the power of Song that Heitor put forth that Corro fell silent for a moment. Then, in a subdued voice that Heitor and his seconds could barely hear at first, came Corro's answer:
 
-<blockquote>
+<blockquote><pre>
 &#8220;In truth, there is much justice in this Singing
 
 Nor can I withhold respect for your deadly skill with a sword
@@ -146,7 +146,7 @@ Your Song compels me to stand forth;
 Yet in justice I must tell you 
 
 You're going to need another blade.&#8221;
-</blockquote>
+</pre></blockquote>
 
 &#8220;For so it was. Heitor&apos;s scabbard was empty; and neither he nor his seconds could well recall when it had been taken, slipped silently from behind a tree, eased from the sheath when Dun Heitor, the great Singer, was distracted by the power of his own great verses.&#8221;
 
