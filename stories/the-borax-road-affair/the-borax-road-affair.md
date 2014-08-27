@@ -182,7 +182,7 @@ Carnente herself burned bright in Zemena's vision. Such of Carnente&#8217;s _imt
 
 _&#8220;Our son,&#8221;_ rumbled Greguru&#8217;s ghost softly at her side. _&#8220;He looks well, doesn&#8217;t he?&#8221;_
 
-Corro sat at ease yet with perfect poise and bearing, just as she&#8217;d seen him in the saddle or the Arena. Here, as master of the Hall and the Cass, his power and worth seemed evident as seldom before. His face was angular and mobile, his glance keen; he spoke well, with grave courtesy, hard-won wisdom, and rueful merriment. He&#8217;d chosen, for the evening, a pearl-gray shirt and trousers of black trimmed in rust and azure piping: _a subtle statement of subtlety_, Zemena thought wryly. Corro conversed comfortably with Dun Heitor, who was revealed as a powerful and deadly figure, a titan of Humano Potential: honest and lethal, laced with occasional glimmers.
+Corro sat at ease yet with perfect poise and bearing, just as she&#8217;d seen him in the saddle or the Arena. Here, as master of the Hall and the Cass, his power and worth seemed evident as seldom before. His face was angular and mobile, his glance keen; he spoke well, with grave courtesy, hard-won wisdom, and rueful merriment. He&#8217;d chosen, for the evening, a pearl-gray shirt and trousers of black trimmed in rust and azure piping: _a subtle statement of subtlety_, Zemena thought wryly. Corro conversed comfortably with Dun Heitor, who was revealed as a powerful and deadly figure, a titan of Humano Potential: honest, disciplined, shrewd, and lethal, laced with occasional glimmers of dry humor.
 
 The Ambassador sat with old doctor Garseyo and the Tonor&oacute;no surveyor. She was without question brilliant and formidable, and had this day brought astonishing gifts to the warring Casas; but something about her troubled Zemena.
 
@@ -195,7 +195,7 @@ When she looked at Firix&#8217;s face, it seemed stretched like a lovely mask ov
 
 Dina Zemena and Dun Heitor of Cass Tonor&oacute;n walked in the sunken lanes of the Cass Merides gardens. The prisoner Patru, and his guard Alesa, walked with them. The singleminded Hell Wind had subsided with oncoming evening, but there was still wind enough, buffeting and rustling the trees and riffing the surfaces of the small ponds.
 
-Heitor was by swift turns courteous and grim, upright in posture but with a strange slouching prowl to his walk. Something about him breathed danger, and not simply that Tonor&oacute;n and Merides were often at sword&#8217;s point: it was the man himself.
+Heitor was by swift turns courteous and grim, upright in posture but with a strange slouching prowl to his walk. Everything about him breathed danger, and not simply that Tonor&oacute;n and Merides were often at sword&#8217;s point: it was the man himself.
 
 Zemena smiled a small crooked smile. _I walk in the company of a proven warrior, a deadly enemy of my Cass with a readiness to kill; and with a skillful, dangerous prisoner whose measure I have yet to fully take._ With Alesa present, she knew she had nothing to fear.
 
@@ -271,17 +271,17 @@ Dina Zemena stood on a prow of old masonry that jutted from Cass Meridess&#8217;
 
 The wind, chill changeable remnant of the _katabateco_ that had howled through the night, buffeted Zemena and riffled her cloak, sending its hem flapping this way and that as the wind switched.
 
-Zemena enjoyed the wind, had always enjoyed windy mornings, but something tense loomed in her thoughts today. She had watched the review party ride away down the winding lanes of the gardenlands, Corro and Heitor in comfortable proximity, Siscozo and the Tonor&oacute;no scribe escorted by a good dozen soldiers, Sor Won leading a similar detachment of Merideza soldiers and two Hounds. The surveyors from both Casses stood with Illiar of the Furnace, gesturing in learned animation down the intended track of the Borax Road.
+Zemena enjoyed the wind, had always enjoyed windy mornings, but something tense loomed in her thoughts today. She had seen the review party ride away down the winding lanes of the gardenlands: Corro and Heitor in comfortable proximity; Siscozo and the Tonor&oacute;no scribe escorted by a good dozen soldiers; Sor Won leading a similar detachment of Merideza soldiers and two Hounds. The surveyors from both Casses rode with Illiar of the Furnace, gesturing in learned animation down the intended track of the Borax Road.
 
-She watched them leave the gardenlands, small with distance, and wind down through the barren hills and shallow ridges until they were lost to view.
+She had watched them leave the gardenlands, small with distance, and wind down through the barren hills and shallow ridges until they were lost to view.
 
 There was a step behind her, and she turned to see Firix, accompanied by her secretary Gonsevero. Firix seemed in good spirits, as was her right—_we owe you a great deal, Ambassador_—but Zemena could not warm to the woman. She looked more closely at Firix, and saw the strain of some concealed excitement.
 
 Zemena summoned her _imtir_, letting the mnemonics form all around her. She delegated conversation to a light social persona within her mind, and put her _imtir_ to the task of studying Firix.
 
-Slowly, under the cover of that modest social chatter, Zemena integrated observations: minute details of face and voice and posture, word choice, conversational flow. As she did so she became more alarmed. The strain she had seen in Firix was a strongly controlled suspense—something had not _yet_ happened, Zemena realized. She began to delve into that. In brief exasperation, she realized that if only Firix were Humano, she could Sing into the Ambassador&#8217;s _imtir_.
+Slowly, under the cover of that modest social chatter, Zemena integrated observations: minute details of face and voice and posture, word choice, conversational flow. As she did so she became more alarmed. The strain she had seen in Firix was a strongly controlled _suspense_—something had not yet happened, Zemena realized. She began to delve into that. In brief exasperation, she realized that if only Firix were Humano, she could Sing into the Ambassador&#8217;s _imtir_.
 
-It was a briefly chilling thought: _Have we so specialized ourselves that we are at a disadvantage when dealing with a formidable_ imtir_-blind individual?_
+It was a briefly chilling thought: <i>Have we so specialized ourselves that we are at a disadvantage when dealing with a formidable</i> imtir<i>-blind individual?</i>
 
 Her concentration was almost broken as Patru and Alesa walked up the steps as well. _I do not need you here_, she thought; and then, _or do I?_ She nodded with her surface personality, and spoke with them comfortably, letting Firix to engage Patru in conversation.
 
@@ -303,7 +303,7 @@ Zemena made a brief signal to Alesa, a hand motion and a cut of eye. Then she al
 
 Several things happened then. Gonsevero, taken off guard for only a moment, gathered himself and plunged towards her with silent speed. She backed another step, feeling painfully slow, and slower. She beheld a slow world, in which wind-ruffled cloth moved languidly, and sound itself slowed to a muffled drag.
 
-It was her _imtir_, saving her life by shifting her awareness into the battle mode that made time pass slowly: the great advantage of Humano fighters. She moved far less quickly than the small man, but she could begin reacting to him before he had well begun to move.
+It was her _imtir_, saving her life by shifting her awareness into the battle mode that made time pass slowly: the great advantage of Humano fighters. She moved far less quickly than the small man, but she could begin reacting to him before he had well begun a move.
 
 The thin blade that had appeared in Gonsevero&#8217;s hand slid in, not reaching her, and then back in a stroke to open the muscles of her forearm; but her arm was already moving out of the path of the backstroke. The ultimate Humano combat dictum: _Do not be there when the blow lands._
 
