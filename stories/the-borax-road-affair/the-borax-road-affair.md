@@ -6,12 +6,12 @@
 
 The Tonor&oacute;nos came to the Northern gate of Cass Merides under a flying autumn morning. Strips of gray and white clouds ran down a stiff northwesterly breeze. Above them the sky was blue and deep, stitched with the dark wheeling forms of hawks and vultures.
 
-The picked platoon made a proud show, approaching the Cass which had been their bitter enemy for over a generation. The road wound between slopes and rock outcrops, manned by Merideza sentries and archers. The Tonor&oacute;nos made as if they did not see the armed foemen above. They marched along the hardpack surface with the wiry ease of long practice, hawk-faced men under the floating black bandera with its dun-colored raptor insignia.
+The picked platoon made a proud show, approaching the Cass that had been their bitter enemy for over a generation. The road wound between slopes and rock outcrops, manned by Merideza sentries and archers. The Tonor&oacute;nos made as if they did not see the armed foemen above. They marched along the hardpack surface with the wiry ease of long practice, hawk-faced men under the floating black bandera with its dun-colored raptor insignia.
 
-Humano officers, in tan and black battle dress and flowing tan headscarves, wore the two ceremonial swords. Sergeants in dress black, and grim slave soldiers in tan uniforms, bore daggers, short swords, and short bows. They sang a short deep-voiced cadence as they marched. Following the marchers came Dun Heitor with a small crew of dignitaries and retainers, riding on the dryland horses that were Cass Tonor&oacute;n&#8217;s particular pride. Heitor rode easily, black headdress flowing in the wind, his rolling shoulders, bristling moustachios, and fierce watchful face the very picture of a Humano warrior of the dry hills.
+Humano officers, in tan and black battle dress and flowing tan headscarves, wore the two ceremonial swords. Sergeants in dress black, and grim slave soldiers in tan uniforms, bore daggers, short swords, and short bows. They sang a short deep-voiced cadence as they marched. Following the marchers came Dun Heitor with a small crew of dignitaries and retainers, riding on the dryland horses that were Cass Tonor&oacute;n&#8217;s particular pride. Heitor rode easily, black headdress flowing in the wind. His rolling shoulders, bristling moustachios, and fierce watchful face were the very picture of a Humano warrior of the dry hills.
 
 
-Corro, Dun of Cass Merides, waiting by the gate, watched his lifelong enemies approach with honest admiration and cold hatred. For a moment Corro closed his eyes, summoning his _imtir_, his internal sensory mnemonic store of memory. Complex, distinctive, disturbing images populated the great chambers of his mind, each the index of some part of Corro&#8217;s lifetime of learning and action. When he opened his eyes again, the mnemonics shifted, some opening and some receding, finding attachment points in his field of vision. He beheld the Tonor&oacute;nos with an overlay of augmented understanding, knowing the names and reputations of men he had scarcely met, knowing scraps and streaks of their histories, reputed moves and styles of fighting. He knew too the names of his comrades they had killed.
+Corro, Dun of Cass Merides, waiting by the gate, watched his lifelong enemies approach with honest admiration and cold hatred. For a moment Corro closed his eyes, summoning his _imtir_, his internal sensory mnemonic store of memory. Complex, distinctive, disturbing images populated the great chambers of his mind, each the index of some part of Corro&#8217;s lifetime of learning and action. When he opened his eyes again, the mnemonics shifted, some opening and some receding, finding attachment points in his field of vision. He beheld the Tonor&oacute;nos with an overlay of augmented understanding, knowing the names and reputations of men and women he had scarcely met, knowing scraps and streaks of their histories, reputed moves and styles of fighting. He knew too the names of his comrades they had killed.
 
 Corro knew that many of the Tonor&oacute;nos regarded him with knowledge equally extensive. This was the Humano way. However—and with no arrogance whatsoever—he judged his own _imtir_ to be one of the finest present.
 
@@ -76,7 +76,7 @@ The sudden buzz of exclamation that swept through the disciplined listeners glad
 
 Educated the Humanos might be, but a frisson of superstitious awe rustled through the Hall. The Dead Dry, where no one could live any longer, was in many respects the hell of Circumpolar cultures.
 
-&#8220;The specific region in which borax was dug had an evil name even in Waster times, _before_ the ruin of the climate. Now no one lives within hundreds of kilometers; no one can travel there very well. There is very little water, and a caravan of pack animals could not survive without careful pre-siting of water barrels along a known route. And then there is the problem of actually finding the correct stuff.&#8221; She shrugged. &#8220;The Wasters dug it from open pits with their equipment. That is clearly not an option for us.&#8221;
+&#8220;The specific region in which borax was dug had an evil name even in Waster times, _before_ the ruin of the climate. Now no one lives within hundreds of kilometers; no one can travel there very well. There is very little water, and a caravan of pack animals could not survive without careful pre-siting of water barrels along a known route. And then there is the problem of actually finding the correct stuff.&#8221; She shrugged. &#8220;The Wasters dug it from open pits with great fleets of specialist machines. That is clearly not an option for us.&#8221;
 
 &#8220;We&#8217;ve been studying this quietly for a dozen years. Everywhere we turned, there was something to block the solution. We had reached the point of despair—until,&#8221; she smiled, &#8220;one of our traders visited Cass Estelo, and went down to the desert, and took a ride on a skitterer.&#8221;
 
@@ -106,7 +106,7 @@ She spent a slow moment sweeping the crowd with her gaze. _I like these people_.
 
 Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapsed subtly into the storytelling style of speech common in the Humano Casas.
 
-&#8220;Corro challenged Heitor to a duel. Heitor and his seconds went to the place appointed, and waited for Corro. Corro, as all know, was late. And then, he was very late. Heitor and his seconds began to scoff, and then to mock outright. At last Heitor, in great good humor, said that Corro was clearly afraid to show himself. &#2018;But perhaps he lurks nearby,&#2019; Heitor told his comrades. And then Heitor, one of the great Singers of the Front Range, began to Sing.
+&#8220;Corro challenged Heitor to a duel. Heitor and his seconds went to the place appointed, and waited for Corro. Corro, as all know, was late. And then, he was very late. Heitor and his seconds began to scoff, and then to mock outright. At last Heitor, in great good humor, said that Corro was clearly afraid to show himself. &#8216;But perhaps he lurks nearby,&#8217; Heitor told his comrades. And then Heitor, one of the great Singers of the Front Range, began to Sing.
 
 &#8220;Heitor&apos;s seconds were a woman and man of honest thought and temper; and they have both said, of this song, that it was subtle and powerful, cunningly crafted to reach Corro&apos;s _imtir_ with a burden of shame and confusion. Were Corro within earshot at all, it seemed to them, he would be forced out of hiding, either in abject shame and defeat or in reckless fury, easy meat for Dun Heitor&apos;s famous blade.
 
@@ -114,33 +114,33 @@ Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapse
 
 &#8220;Interwoven with Heitor&apos;s Song came an answer. Corro was indeed present, and seemingly not far off; though neither Heitor nor his seconds could tell exactly where he might be. Corro&apos;s Song echoed mockingly through the trees and around the rocks, answering every verse, every insult and implication, without disclosing himself. Though Heitor strode back and forth as he sang, slipping through the thickets and leaping lightly around the outcroppings, he could not fix Corro&apos;s position. It was, by anyone&apos;s reckoning, one of the more notable duels of Humano Song.
 
-&#8220;Heitor noted Corro's great achievement, and Sang honest praise of it; but then he remarked that, though it showed great skill, it remained a Song of evasion, that Corro's cleverness could not but be thought of as, in the end, an unwillingness—&#8218;though no Humano would call it fear&#8219;—to face Heitor in open combat.
+&#8220;Heitor noted Corro's great achievement, and Sang honest praise of it; but then he remarked that, though it showed great skill, it remained a Song of evasion, that Corro's cleverness could not but be thought of as, in the end, an unwillingness—&#8216;though no Humano would call it fear&#8217;—to face Heitor in open combat.
 
 &#8220;So great was the power of Song that Heitor put forth that Corro fell silent for a moment. Then, in a subdued voice that Heitor and his seconds could barely hear at first, came Corro's answer:
 
-<blockquote><pre>
-&#8220;In truth, there is much justice in this Singing
+<pre>
+<i>&#8220;In truth, there is much justice in this Singing
 Nor can I withhold respect for your deadly skill with a sword
 Nor can I deny all fear should we meet in open battle
-Nor can I Sing so greatly, it seems: your imtir, Sor, is a place of power indeed
+Nor can I Sing so greatly, it seems: your</i> imtir<i>, Sor, is a place of power indeed
 As all Humanos must acknowledge
 And your voice a fine voice.
 
-Yet dangerous it is to dwell too deeply in your imtir 
-Unmindful of the world of rocks and trees, unmindful of the soft footstep
+Yet dangerous it is to dwell too deeply in your</i> imtir 
+<i>Unmindful of the world of rocks and trees, unmindful of the soft footstep
 Dangerous to heed your own Singing too well:
 
 If it's your wish to fight me sword to sword I cannot decline
 Your Song compels me to stand forth;
 Yet in justice I must tell you:
 You're going to need another blade.&#8221;
-</pre></blockquote>
+</pre>
 
 &#8220;For so it was. Heitor&apos;s scabbard was empty; and neither he nor his seconds could well recall when it had been taken, slipped silently from behind a tree, eased from the sheath when Dun Heitor, the great Singer, was distracted by the power of his own great verses.&#8221;
 
-For a breath there was silence, then all of the Humanos in the Upper Hall broke into shouting applause; for it was a great story, and she had told it well. Even Heitor smote his hands together and shouted, giving Firix her due, for he was a very honest man and her skill was manifest. The Furnace troops and officers did not break parade discipline, but in unison shouted "Ho, Ha, Hai!", their military accolade.
+For a breath there was silence, then all of the Humanos in the Upper Hall broke into shouting applause; for it was a great story, and she had told it well. Even Heitor smote his hands together and shouted, giving Firix her due, for he was a very honest man and her skill was manifest.
 
-When the outcry had died dow, Firix saw Corro still regarding her speculatively. _I could bed that one_, she thought irrelevantly, but was careful to show no sign of her mild arousal. She beckoned to her Secretary, Gonsevero, who came forth with dignity, bearing a long richly made box of dark wood.
+When the outcry had died down, Firix saw Corro still regarding her speculatively. _I could bed that one_, she thought irrelevantly, but was careful to show no sign of her mild arousal. She beckoned to her Secretary, Gonsevero, who came forth with dignity, bearing a long richly made box of dark wood.
 
 &#8220;I said earlier that this conflict has been a matter of honor,&#8221; Firix said, her clear voice once again echoing through the Hall. &#8220;The Furnace accordingly proposes gifts of honor, to amend this long enmity.&#8221; From the box she withdrew a dueling sword, long and blue, supple as a living thing. There were a few gasps, but mostly the Humanos watched in silent awe: most of them had never seen a Furnace duelling blade in their lives. Firix had practiced diligently with swords; she was no master, but her arm and wrist had grown strong enough to hold it up in the clear morning light without a tremor. Solemnly she bore the sword to Heitor, and reversed it over her arm, offering the hilt to him.
 
