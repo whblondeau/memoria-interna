@@ -29,7 +29,7 @@ Three forces met before the North Gate in formation, distinct blocks of color in
 
 The tan and black of Tonor&oacute;n marched to a halt. Facing them to the right was rust and azure: Dun Corro and his retainers. Across the road was green and gold, an ambassadorial delegation from the Furnace, which had arrived the evening before. Their honor guard of thirty burly soldiers stood as guarantors of the peace.
 
-Firix the ambassador, author of that peace, a beautiful woman with striking auburn hair blowing in the morning breeze, her garb glowing fire-green in the morning, stood proudly with her Surveyor Illiar, a tall woman with a perpetually puckered brow. The ambassadorial party was positioned between her soldiers and the gate: pragmatically out of the line of fire should the Furnace troops need to employ those well-tended firearms at their belts.
+Firix the ambassador, author of that peace, a beautiful woman with striking auburn hair blowing in the morning breeze, her garb glowing fire-green in the morning, stood proudly with the other Furnace dignitary, Surveyor Illiar, a tall woman with a perpetually puckered brow. The ambassadorial party was positioned between her soldiers and the gate: pragmatically out of the line of fire should the Furnace troops need to employ those well-tended firearms at their belts.
 
 &#8220;A good morning for peace,&#8221; Trihanj murmured to Corro. She was a second cousin on his father&#8217;s side, and the most prominent of his syndics. A tall, rather thin woman, she wore her dress uniform with poise—but her sword, dagger, short bow, and quiver with the kind of familiar ease that surpasses poise. An extremely likable person. She had attempted to kill Corro twice before acknowledging his superior Potential.
 
@@ -74,13 +74,13 @@ The sudden buzz of exclamation that swept through the disciplined listeners glad
 
 &#8220;The only feasible substrate for our mirrors is borosilicate glass. Our stores of borax are almost gone. And the only natural sources of borax are far to the south, in the Dead Dry.&#8221;
 
-Educated the Humanos might be, but a frisson of superstitious awe rustled through the Hall. The Dead Dry, where no one could live any longer, was in many respects the hell of conscious cultures.
+Educated the Humanos might be, but a frisson of superstitious awe rustled through the Hall. The Dead Dry, where no one could live any longer, was in many respects the hell of Circumpolar cultures.
 
 &#8220;The specific region in which borax was dug had an evil name even in Waster times, _before_ the ruin of the climate. Now no one lives within hundreds of kilometers; no one can travel there very well. There is very little water, and a caravan of pack animals could not survive without careful pre-siting of water barrels along a known route. And then there is the problem of actually finding the correct stuff.&#8221; She shrugged. &#8220;The Wasters dug it from open pits with their equipment. That is clearly not an option for us.&#8221;
 
 &#8220;We&#8217;ve been studying this quietly for a dozen years. Everywhere we turned, there was something to block the solution. We had reached the point of despair—until,&#8221; she smiled, &#8220;one of our traders visited Cass Estelo, and went down to the desert, and took a ride on a skitterer.&#8221;
 
-&#8220;Do you seriously think you can take _skitterers_ down thousands of miles to the south, and do anything useful with them when you get there?&#8221; Dina Isme of Merides, herself an accomplished skitterer pilot and a senior syndic, spoke up, her voice pitched to carry through the hall. _These people and their hall meetings,_ Firix thought appreciatively. _As outspoken as the most senior directorate meetings in the Council, but with a much more measured discipline._
+&#8220;Do you seriously think you can take _skitterers_ down thousands of miles to the south, and do anything useful with them when you get there?&#8221; Sra Isme of Merides, herself an accomplished skitterer pilot and a senior syndic, spoke up, her voice pitched to carry through the hall. _These people and their hall meetings,_ Firix thought appreciatively. _As outspoken as the most senior directorate meetings in the Council, but with a much more measured discipline._
 
 &#8220;No, of course not,&#8221; said Firix. &#8220;Personally, I regret that—the romance of a fleet of skitterers cruising down the sands of the Calicar Barran&#8217;, sails aloft in the moonlight? I&#8217;d hang up my ambassadorship to crew that expedition.&#8221; Smiles in the Hall answered her. For a moment she hesitated. _That was a little too revealing&#8230;_ &#8220;No, we considered ways to make that work, but in the end wind power could not be the answer.
 
@@ -96,13 +96,13 @@ That startled them. Another rustle swept through the Hall.
 
 &#8220;For the best of reasons, the Furnace desires peace between you. That is why I am here.
 
-&#8220;Nor am I here empty-handed. Enmity between Cass Tonor&oacute;n and Cass Merides is of long standing, and will not vanish because I wave my hand or because I tell you about the Furnace&apos;s mad plan for bringing borax north from the Dead Dry.&#8221;
+&#8220;Nor am I here empty-handed. Enmity between Cass Tonor&oacute;n and Cass Merides is of long standing, and will not vanish because I wave my hand or because I tell you that the Furnace has a mad plan for bringing borax north from the Dead Dry.&#8221;
 
 She spent a slow moment sweeping the crowd with her gaze. _I like these people_. The thought tore her, but she was too old a hand to betray it, even to the hyperacute discernment of Humanos.
 
 &#8220;The Furnace stands ready to provide items of substantial value to Cass Tonor&oacute;n and Cass Merides. This anyone of sense would expect.
 
-&#8220;But of course, this is a matter of honor, not to be amended by mere goods.&#8221; Her gaze traveled to the two Duns, gathering them. &#8220;Every Humano on the front range knows the tale. The great duel between Greguru of Merides and Heitor of Tonor&oacute;n is the matter of many songs. And then, Corro&apos;s brilliant revenge.&#8221; 
+&#8220;But of course, this is a matter of honor, not to be amended by mere goods.&#8221; Her gaze traveled to the two Duns, gathering them. &#8220;Every Humano on the Front Range knows the tale. The great duel between Greguru of Merides and Heitor of Tonor&oacute;n is the matter of many songs. And then, Corro&apos;s brilliant revenge.&#8221; 
 
 Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapsed subtly into the storytelling style of speech common in the Humano Casas.
 
@@ -122,7 +122,7 @@ Neither Corro nor Heitor moved a muscle. This was the delicate moment. She lapse
 &#8220;In truth, there is much justice in this Singing
 Nor can I withhold respect for your deadly skill with a sword
 Nor can I deny all fear should we meet in open battle
-Nor can I Sing so greatly, it seems: your imtir, Sor, is a place of power
+Nor can I Sing so greatly, it seems: your imtir, Sor, is a place of power indeed
 As all Humanos must acknowledge
 And your voice a fine voice.
 
@@ -142,17 +142,13 @@ For a breath there was silence, then all of the Humanos in the Upper Hall broke 
 
 When the outcry had died dow, Firix saw Corro still regarding her speculatively. _I could bed that one_, she thought irrelevantly, but was careful to show no sign of her mild arousal. She beckoned to her Secretary, Gonsevero, who came forth with dignity, bearing a long richly made box of dark wood.
 
-&#8220;I said earlier that this conflict has been a matter of honor,&#8221; Firix said, her clear voice once again echoing through the Hall. &#8220;The Furnace accordingly proposes gifts of honor, to amend this long enmity.&#8221; From the box she withdrew a dueling sword, long and blue, supple as a living thing. There were a few gasps, but mostly the Humanos watched in silent awe: most of them had never seen a Furnace duelling blade in their lives. She had practiced diligently with swords; she was no master, but her arm and wrist had grown strong enough to hold it up in the clear morning light without a tremor. Solemnly she bore the sword to Heitor, and reversed it over her arm, offering the hilt to him.
+&#8220;I said earlier that this conflict has been a matter of honor,&#8221; Firix said, her clear voice once again echoing through the Hall. &#8220;The Furnace accordingly proposes gifts of honor, to amend this long enmity.&#8221; From the box she withdrew a dueling sword, long and blue, supple as a living thing. There were a few gasps, but mostly the Humanos watched in silent awe: most of them had never seen a Furnace duelling blade in their lives. Firix had practiced diligently with swords; she was no master, but her arm and wrist had grown strong enough to hold it up in the clear morning light without a tremor. Solemnly she bore the sword to Heitor, and reversed it over her arm, offering the hilt to him.
 
-&#8220;Dun Heitor of Cass Tonor&oacute;n: the Furnace wishes you to accept this gift. Forged in the Redrock Crucible, of a single piece of the finest steel our metallurgists know how to make; fashioned by the master swordsmith Rubena.&#8221; Heitor looked at her in amazement. Rubena was a name known in the FrontRange: her work was legendary, and far beyond anything the greatest Humano swordsmiths could craft. With dignity he bowed, accepted the blade, and accorded Firix a punctilious dueling salute. She smiled and bowed in return. "Carry it to good fortune, Sor.&#8221;
+&#8220;Dun Heitor of Cass Tonor&oacute;n: the Furnace wishes you to accept this gift. Forged in the Redrock Crucible, of a single piece of the finest steel our metallurgists know how to make; fashioned by the master swordsmith Rubena.&#8221; Heitor looked at her in amazement. Rubena was a name known in the Front Range: her work was legendary, and far beyond anything the greatest Humano swordsmiths could craft. With dignity he bowed, accepted the blade, and accorded Firix a punctilious dueling salute. She smiled and bowed in return. "Carry it to good fortune, Sor.&#8221;
 
 Returning to Gonsevero, she withdrew another sword, twin to the first. &#8220;To you, Dun Corro of Cass Merides, the Furnace offers a different thing. Rather than a gift, we offer you a choice. Will you trade the famous blade at your belt for this sword from the hand of Rubena?&#8221; She looked at him gravely. &#8220;Will you yield the trophy you took from Dun Heitor on the famous occasion I have recounted?&#8221;
 
-Corro matched her with a solemn expression of his own, but behind it Firix could see a moment of frozen indecision. Then it passed, and he drew his own blade, offered it hilt-first over his arm.
-
-
-
-
+Corro matched her with a solemn expression of his own, but behind it Firix could see a moment of frozen indecision. Then it passed, and he drew his own blade, and offered it hilt-first over his arm.
 
 
 <br />
@@ -160,7 +156,7 @@ Corro matched her with a solemn expression of his own, but behind it Firix could
 
 On the evening of the same day, Dina Zemena looked with more than a little satisfaction around the great table. Seldom had such a seating of distinguished folk graced the old sunken Hall.
 
-The guests were well distributed. Tonor&oacute;nos, Meridezas, and the Furnace delegates and officers mingled in comfort and fellowship. Their day had been productive and hopeful, and the optimism of the Humano temperament was showing. Besides the diplomatic attendees, a scattering of other guests were seated among them, of varied stations and kinds: the noble and beautiful Carnente of Cass Feredor conversed elegantly with Sor Sergey of Tonor&oacute;n and the Ambassador&#8217;s secretary Gonsevero, a small, punctilious man with swift eyes and voluble hands. Patru the Outwalker, the roaming scholar from the Nofori Tanglewood far to the east, was a prisoner. He had been taken months ago, and appeared to find his captivity light and courteous. Zemena nursed a growing insight that he was in no hurry to leave: Tanglewood Outwalkers, half legendary, had a lifelong calling to travel the world and eventually bring their knowledge back home. _The Tanglewoods are so far from anywhere, out there in the Dry. They are wise to fear the effects of isolation. And here sits this strange man, with his head full of inexhaustable stories and a half dozen languages on his tongue&#8230; what can he think of us, the people who have imprisoned him?_
+The guests were well distributed. Tonor&oacute;nos, Meridezas, and the Furnace delegates and officers mingled in comfort and fellowship. Their day had been productive and hopeful, and the optimism of the Humano temperament was showing. Besides the diplomatic attendees, a scattering of other guests were seated among them, of varied stations and kinds: the noble and beautiful Sra Carnente of Cass Feredor conversed elegantly with Sor Sergey of Tonor&oacute;n and the Ambassador&#8217;s secretary Gonsevero, a small, punctilious man with swift eyes and voluble hands. Patru the Outwalker, the roaming scholar from the Nofori Tanglewood far to the east, was a prisoner. He had been taken months ago, and appeared to find his captivity light and courteous. Zemena nursed a growing insight that he was in no hurry to leave: Tanglewood Outwalkers, half legendary, had a lifelong calling to travel the world and eventually bring their knowledge back home. _The Tanglewoods are so far from anywhere, out there in the Dry. They are wise to fear the effects of isolation. And here sits this strange man, with his head full of inexhaustable stories and a half dozen languages on his tongue&#8230; what can he think of us, the people who have imprisoned him?_
 
 Patru&#8217;s speech and knowledge and strength of character had won him a respected place among the noblest of Cass Merides; but a prisoner he remained. Behind his chair, waiting with patient vigilance against the wall, stood his jailor Alesa: a Hound, human slavestock bred for reflexes, focus, and wide-spectrum awareness; trained to kill and to slink, assassin and commando.
 
@@ -176,17 +172,17 @@ _And here we all sit, she thought. Impetuous Trihanj is now Corro&#8217;s most l
 
 She let her _imtir_ become manifest to her thought and perception as she looked around the Hall. The Hall itself grew taller and more beautiful, with strange filmed shadows blowing at its edges like draperies, opening above to a pulsating night sky in whose depths glimmered constellations, starscapes of the imagination that Zemena alone had ever seen. The seated guests and the standing servitors and guards shone in the real light of cressets and lamps, and to Zemena&#8217;s sight they shone in lights cast from no source, that illuminated them as amazing constructs, each person a landscape of metaphor and memory.
 
-The servitors and work slaves exhibited, to Zemena&#8217;s inner eye, little more than the knowledge of their breeding. They had little else of interest about them: competent and placid, human stock bred to less than Humano potential. The Hounds seemed greater of frame, stooped and gaunt, remorseless animals of war and and the chase, moving from terrible stillness to terrible stillness. The Companions were wrapped in auras of allure and sensitivity, their attention palpably bent to discerning the mood and affect of their assigned guests. All seemed to show, if she looked carefully, attenuating throngs of ancestral ghosts trailing out behind: signatures of Zemena&#8217;s prodigious memory for the bloodlines.
+The servitors and work slaves exhibited, to Zemena&#8217;s inner eye, little more than the knowledge of their breeding. They had little else of interest about them: competent and placid, human stock bred to less than Humano potential. The Hounds seemed distorted, stooped and gaunt, remorseless animals of war and and the chase, moving from terrible stillness to terrible stillness. The Companions were wrapped in auras of allure and sensitivity, their attention palpably bent to discerning the mood and affect of their assigned guests. All seemed to show, if she looked carefully, attenuating throngs of ancestral ghosts trailing out behind: signatures of Zemena&#8217;s prodigious memory for the bloodlines.
 
 The Humanos of Cass Merides, and some of the guests, all had such ghosts, for she was Breedmistress of the Humanos as well as the slaves. Whatever she knew, from written records or from tales of the past, she held in her _imtir_. Her inner gaze dwelt with brief fondness on one of her favorite ghosts: Asturias of Cass Esteza, Carnente&#8217;s maternal great-grandfather. Asturias, dressed in the somber finery of a century ago, lifted his eyes to Zemena and winked, a small smile tugging at the corner of his mouth. Zemena, pleased and more than a little surprised, would have blushed had her Humano control been less.
 
 _Seduced by a ghost,_ she snorted to herself. The dangers of such entanglements were well understood. She should perhaps spend a few nights with a Companion.
 
-Such of Carnente&#8217;s _imtir_ as Zemena had been able to understand, or guess, floated in the air around her, and seemed good and well-shaped. _We live and walk alone, all of us. We know so little of one another, studying half-guessed fabrications._
+Carnente herself burned bright in Zemena's vision. Such of Carnente&#8217;s _imtir_ as Zemena had been able to understand, or guess, floated in the air around her, and seemed good and well-shaped. _We live and walk alone, all of us. We know so little of one another, studying half-guessed fabrications._
 
 _&#8220;Our son,&#8221;_ rumbled Greguru&#8217;s ghost softly at her side. _&#8220;He looks well, doesn&#8217;t he?&#8221;_
 
-Corro sat at ease yet with perfect poise and bearing, just as she&#8217;d seen him in the saddle or the Arena. Here, as master of the Hall and the Cass, his power and worth seemed evident as seldom before. His face was angular and mobile, his glance keen; he spoke well, with grave courtesy, hard-won wisdom, and rueful merriment. He&#8217;d chosen, for the evening, a pearl-gray shirt and trousers of black trimmed in rust and azure piping: _a subtle statement of subtlety_, Zemena thought wryly.
+Corro sat at ease yet with perfect poise and bearing, just as she&#8217;d seen him in the saddle or the Arena. Here, as master of the Hall and the Cass, his power and worth seemed evident as seldom before. His face was angular and mobile, his glance keen; he spoke well, with grave courtesy, hard-won wisdom, and rueful merriment. He&#8217;d chosen, for the evening, a pearl-gray shirt and trousers of black trimmed in rust and azure piping: _a subtle statement of subtlety_, Zemena thought wryly. Corro conversed comfortably with Dun Heitor, who was revealed as a powerful and deadly figure, a titan of Humano Potential: honest and lethal, laced with occasional glimmers.
 
 The Ambassador sat with old doctor Garseyo and the Tonor&oacute;no surveyor. She was without question brilliant and formidable, and had this day brought astonishing gifts to the warring Casas; but something about her troubled Zemena.
 
@@ -229,9 +225,9 @@ Heitor halted, and rounded on Patru abruptly. &#8220;Who are you, Outwalker, to 
 
 Patru held himself very still for a moment, then relaxed into a strange sort of half-bow with hands spread. &#8220;Please do not mistake my meaning, Dun Heitor,&#8221; he said quietly, with no challenge in his voice—but no quaver either. The wind gentled, and a great silence seemed to lie behind it. No distant dueling Song could now be heard. &#8220;An Outwalker does not challenge the practices or beliefs of the people he walks among. And in all honesty I have found so much to admire among the Humanos&#8230; In many respects you are greater individuals than any I have encountered. This does not blind me to the qualities of your slaves.&#8221;
 
-Dun Heitor, savage fighter of the front range, stood looking full into Patru&#8217;s face for a moment, as if puzzled. Then he relaxed. &#8220;Perhaps there is something in what you say, Sor. Perhaps.&#8221; With a swift lifting of mood he turned and led the party up a wandering path into a coign facing northwest, and the prospect opened awesomely before them.
+Dun Heitor, savage fighter of the Front Range, stood looking full into Patru&#8217;s face for a moment, as if puzzled. Then he relaxed. &#8220;Perhaps there is something in what you say, Sor. Perhaps.&#8221; With a swift lifting of mood he turned and led the party up a wandering path into a coign facing northwest, and the prospect opened awesomely before them.
 
-Evening was closing over the front range, and a huge boil of cloud was lifting over the western ridgeline, a slate gray mass between the fading sky and the hard dark line of the mountains. _As if the Furnace were some ancient coal-fired monstrosity after all,_ thought Zemena. _A remnant of Waster works up there, unsuspected until now._ The last of sunset traced an edge of fire along the tops of the hulking cloud.
+Evening was closing over the Front Range, and a huge boil of cloud was lifting over the western ridgeline, a slate gray mass between the fading sky and the hard dark line of the mountains. _As if the Furnace were some ancient coal-fired monstrosity after all,_ thought Zemena. _A remnant of Waster works up there, unsuspected until now._ The last of sunset traced an edge of fire along the tops of the hulking cloud.
 
 &#8220;What weather do you anticipate, Dina?&#8221; Patru spoke courteously, and Zemena noted the contrast between his studious voice and Heitor&#8217;s veiled ferocity.
 
@@ -305,13 +301,13 @@ Zemena made a brief signal to Alesa, a hand motion and a cut of eye. Then she al
 
 &#8220;Ambassador Firix,&#8221; she said evenly. &#8220;Are you aware that your secretary is Hound slavestock, probably from Cass Rumoro?&#8221; Firix blinked.
 
-In a moment several things happened. Gonsevero, taken off guard for only a moment, gathered himself and plunged towards her with silent speed. She backed another step, feeling painfully slow, and slower.
+Several things happened then. Gonsevero, taken off guard for only a moment, gathered himself and plunged towards her with silent speed. She backed another step, feeling painfully slow, and slower. She beheld a slow world, in which wind-ruffled cloth moved languidly, and sound itself slowed to a muffled drag.
 
-It was her _imtir_, saving her life by shifting her awareness into the battle mode that made time pass slowly: the great advantage of Humano fighters. She moved far less quickly than the small man, but her actions were so precise that her movements were shorter and smaller.
+It was her _imtir_, saving her life by shifting her awareness into the battle mode that made time pass slowly: the great advantage of Humano fighters. She moved far less quickly than the small man, but she could begin reacting to him before he had well begun to move.
 
 The thin blade that had appeared in Gonsevero&#8217;s hand slid in, not reaching her, and then back in a stroke to open the muscles of her forearm; but her arm was already moving out of the path of the backstroke. The ultimate Humano combat dictum: _Do not be there when the blow lands._
 
-It was the only opening he was to have. Alesa, in a low flat dive of breathtaking beauty and skill, glided like a swimmer between them, slicing with the flat of her hand to strike the knife up and away. The dagger in her other hand was already darting at his thigh, and he barely evaded in time. Alesa curled and rolled, up before Gonsevero could take advantage.
+It was the only opening he was to have. Alesa, in a low flat dive of breathtaking beauty and skill, glided like a swimmer between them, slicing with the flat of her hand to strike the knife up and away. The dagger in her other hand was already darting at his thigh, and he barely evaded in time. Alesa curled and rolled to the stone floor, up before Gonsevero could take advantage.
 
 Zemena continued to back away, seeing Patru step forward to grapple Firix by the arm. The Ambassador was drawing a pistol from under a fold of her beautiful robe, but he quickly twisted the hand so that she dropped it.
 
@@ -338,7 +334,7 @@ Zemena looked up. &#8220;Patru, kindly bring your prisoner.&#8221; Then, &#8220;
 
 &#8220;Dun Heitor is dead. He tried to kill Corro, no one understands why. Corro killed him instead. A pity,&#8221; she said austerely. &#8220;I rather liked Heitor, you know. Then Sor Siscozo&#8221;—she spoke the name with an extra hiss—&#8220;put an arrow into Corro&#8217;s back and ran, with his escort, ducking into the rough country.&#8221;
 
-Zemena heard her own words as if through a muffling layer of cloth. Shock. She took a moment to force it down: she could command her body at need, even if her mind was unruly. The world was suddenly a bit warmer and crisper.
+Zemena heard her own words as if through a muffling layer of cloth. Shock. She took a moment to force it down: she could command her body at need, even if her mind was unruly. The world grew suddenly a bit warmer and crisper.
 
 &#8220;Wan made a swift choice and a good one. He withdrew with Corro, the soldiers and Hounds providing cover. We are sending a party with Doctor Garseyo to meet them. If you live, it will be because Garseyo is a tough old battlefield bitch who knows her work.&#8221;
 
@@ -362,7 +358,7 @@ Zemena looked at him suddenly, puzzled.
 
 &#8220;Oh yes, it can indeed.&#8221; Zemena&#8217;s face grew cold and rigid with fury.
 
-She turned to Firix. &#8220;Well, now you are trebly guilty. Not only did you seemingly arrange a murderous attack that has lost Tonor&oacute;n its Dun, and may do the same for Cass Merides -&#8221; her voice broke off thinly for a moment, then she resumed. &#8220;Not only did you deliberately destroy the accord you worked so hard to put into place.&#8221; Her dark eyes looked flatly at Firix with the emotion blown out of them like a snuffed candle flame. &#8220;You also meddled with the forbidden arts&#8230; did you have _any_ idea what you were doing?
+She turned to Firix. &#8220;Well, now you are trebly guilty. Not only did you seemingly arrange a murderous attack that has lost Tonor&oacute;n its Dun, and may do the same for Cass Merides—&#8221; her voice broke off thinly for a moment, then she resumed. &#8220;Not only did you deliberately destroy the accord you worked so hard to put into place.&#8221; Her dark eyes looked flatly at Firix with the emotion blown out of them like a snuffed candle flame. &#8220;You also meddled with the forbidden arts&#8230; did you have _any_ idea what you were doing?
 
 &#8220;You see, Patru, Singing casts thoughts into the _imtir_ of the opponent. Or, not even an opponent: it has other uses, but we Humanos are a contentious people. But there are several uses that are proscribed, and every Humano&#8217;s hand is raised against the practitioner. Among these arts, there is none worse than the Silence. That is a Song whose first action is to blot out any knowledge that there is Singing occurring. Apparently Siscozo is adept at this. It&#8217;s a despicable act, much like shooting someone in the back—which, come to think of it, Siscozo has also shown himself to be skilled at doing.&#8221; A strange bitter expression crossed her face. &#8220;How long, I wonder, did Siscozo spend his time making Heitor into a beast who would kill on command? Something less than a Hound...&#8221; She turned back to Firix.
 
@@ -382,7 +378,7 @@ Zemena paced back and forth several times. Firix began to shiver, then uncontrol
 
 &#8220;Patru, I brought you here because my _sconsciende_ demanded it. And now I know why. I wish a witness to my decision, a witness not of Cass Merides.
 
-&#8220;Firix, Ambassador of the Furnace. You owe Cass Merides a debt of honor. If my son dies, you will owe me a debt of blood. For either of these I could kill you quickly&#8230; or very, very slowly.&#8221; She faced the trembling woman, dark eyes boring into eyes of green. &#8220;But I choose neither of these things.
+&#8220;Firix, Ambassador of the Furnace. You owe Cass Merides a debt of honor. If my son dies, you will owe me a debt of blood. For either of these I could kill you quickly—or very, very slowly.&#8221; She faced the trembling woman, dark eyes boring into eyes of green. &#8220;But I choose neither of these things.
 
 &#8220;You are now my creature. I hold a secret that will have you destroyed by your own people, your own Council, at my whim. You will never be able to take that away from me. And girl, if you ever find yourself for a moment tempted to think that you are anything like a match for me, now that I know your mind, you are welcome to take whatever measures you choose.&#8221;
 
