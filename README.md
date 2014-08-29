@@ -17,7 +17,9 @@ The sparse and rambling synopsis below is of course subject to change. Parts of 
 
 ##### [/background](./background)
 >[Brief Historical Outline](./background/historical_outline.md)
+
 >[Languages of the Circumpolar](./background/human_languages.md)
+
 >[Maker Traditions](./background/maker-traditions.md)
 
 
