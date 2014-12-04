@@ -10,10 +10,10 @@ Knowing the time, she was able to trace the meridians of longitude on the dark f
 
 Pure tranquil exaltation. Hrafney had done, in 74 seconds, what whould have taken an unassisted navigator a good half hour of careful plotting and dead reckoning, of paging through almanacs and consulting the chronometer.
 
-She'd learned how to do the basic navigation at a very young age, and been taught the powerful mnemonics of the trigonometric tables in the secret schools of the Icelandic Commonwealth. She had scaled the mountains in person, clad in bulky fur and oiled leather, to learn their shapes and frame them in her mind: the great windswept spaces of her interior memory, where she could exercise the powers of her thought, and retreat from the mundane realities of the physical world.
+She'd learned how to do the basic navigation at a very young age, and been taught the powerful mnemonics of the trigonometric tables in the secret schools of the Icelandic Commonwealth. She had climbed and surveyed the mountains in person, clad in bulky fur and oiled leather, to learn their shapes and frame them in her mind: the great windswept spaces of her interior memory, where she could exercise the powers of her thought, and retreat from the mundane realities of the physical world.
 
 
-But the immense starscape above the mountains was showing signs of wavering and blowing, troubled by the wind. She had, in an odd combination of bravado and ascetic putiy, walked naked into the icy mountaintop gales; but it was coming undone. Her physical form was battered and starved; and the expenditure of energy of the great mental undertaking was not something her body could long endure.
+But the immense starscape above the mountains was showing signs of wavering and blowing, troubled by the wind. She had, in an odd combination of bravado and ascetic purity, walked naked into the icy mountaintop gales; but it was coming undone. Her physical form was battered and starved; and the expenditure of energy of the great mental undertaking was not something her body could long endure.
 
 The starscape shivered in the wind again. She lifted a last look - _this may be the last time I stand here_, she thought - and it seemed her face could fall up into the starry sky. She slowly pivoted, saving every last detail of her memory of the mountains of Groenland.
 
