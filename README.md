@@ -9,14 +9,13 @@ The story cycle gets its name from the old Spanish term for "Internal Memory", a
 
 The stories, as developed, will be in the [/stories](./stories) subdirectory of this repository.
 
-The sparse and rambling synopsis below is of course subject to change. Parts of it will be expanded into supporting documents in /background.
 
 #### Contents
 ##### [/stories](./stories)
 >[The Borax Road Affair](./stories/the-borax-road-affair)
 
 ##### [/background](./background)
->[World of the Circumpolar](./background/world_of_the_circumpolar.md)
+>[World of the Circumpolar](https://github.com/whblondeau/memoria-interna/blob/master/background/world_of_the_circumpolar.md)
 
 
 
