@@ -26,6 +26,12 @@ From beneath her shadowy robe the Goddess drew a wellmade case of wood and brass
 Hrafney suddenly felt the wind, like a blow to the breastbone. She almost lost her balance, and there was no place to step. A deadly weakness came over her. The last thing she saw of the Mountains of Groenland was a handful of stars blowing in the deep night, tumbling like sparks past Mount _ to the north. The lines of the celestial sphere flashed and dimmed.
 
 
-Hrafney gasped and flailed, lying on dirty sacking in the darkness, suddenly feeling warm, feeling a slow uneasy side-to-side motion. She was thirsty, hungry, the ache of her injuries still harsh. A dark iron manacle circled her right ankle, cutting painfully into the flesh. From it, a heavy chain ran to a staple in the bulkhead. The stench of her shitbucket overlay the shipboard smells of tar and pitch and bilge and unwashed humans. She lay quietly, wincing, listening, judging the motion of the ship. It was the slow listless swing of a vessel becalmed. There was a low thud and clack from above, confirming the fact: the boom was jerking idly with the roll of the ship.
+Hrafney gasped and flailed, lying on dirty sacking in the darkness, suddenly feeling warm, feeling a slow uneasy side-to-side motion. She was thirsty, hungry, the ache of her injuries still harsh. The stench of her shitbucket overlay the shipboard smells of tar and pitch and bilge and unwashed humans. She lay quietly, wincing, listening, judging the motion of the ship. It was the slow listless swing of a vessel becalmed. There was a low thud and clack from above, confirming the fact: the boom was jerking idly with the roll of the ship.
+
+_Well,_ she thought, _perhaps I will not die today._
+
+The 
+
+A heavy iron manacle circled her right ankle, cutting painfully into the flesh. From it, a heavy chain ran to a staple in the bulkhead. 
 
 
