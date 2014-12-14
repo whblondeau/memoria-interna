@@ -34,7 +34,8 @@ The Goddess answered no word. From beneath her shadowy wind-riffled robe she dre
 
 Hrafney suddenly felt the wind, like a blow to the breastbone. She almost lost her balance, and there was no place to step. A deadly weakness came over her. The last thing she saw of the Mountains of Groenland was a handful of stars blowing in the deep night, tumbling like sparks to the north. The lines of the celestial sphere flashed and dimmed.
 
-
+<br />
+<br />
 
 Hrafney gasped and flailed, suddenly feeling warm. Warm and sticky. Warm and sticky and miserable.
 
