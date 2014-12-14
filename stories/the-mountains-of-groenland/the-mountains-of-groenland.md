@@ -12,7 +12,7 @@ She lifted her point of view a good thousand meters into the sky, looking down o
  
 And there she had her position. She was at 60° 22′ 0″ N, 23° 51′ 30″ W, and the mountain upon which she stood was Napasorsuaq, of course. An old friend.
 
-She returned her view to her body's eyes. Knowing her position, she was able to lay meridians of longitude on the surface at her feet; and then the parallels of latitude fell north and south, climbing up the curve of the Earth towards the pole, and down to the equator. The graticule was complete, glimmering a faint silver in the darkness. Then the complicated coastline and the forms of land emerged from the darkness below her, drawn from the eternal charts in her mind.
+She returned her view to her body's eyes. Knowing her position, she was able to lay meridians of longitude on the surface of altitude at her feet (the peak of Napasorsuaq was 1580 meters, so the lines of position glowed upon that surface as on a flat glass floor); and then the parallels of latitude fell north and south, climbing up the curve of the Earth towards the pole, and down to the equator. The graticule was complete, glimmering a faint silver in the darkness. Then the complicated coastline and the forms of land emerged from the darkness below her, drawn from the eternal charts in her mind.
 
 The wind buffeted her and tugged at her, whipping her unbound hair to the side. She stowed her sextant and stood on tiptoe, arms out, spurning the dark plunges to rock on either side.
 
@@ -34,7 +34,7 @@ Hrafney suddenly felt the wind, like a blow to the breastbone. She almost lost h
 
 
 
-Hrafney gasped and flailed, suddenly feeling warm, warm and sticky. She was lying on scratchy, dirty sacking in the darkness, feeling a slow uneasy side-to-side motion. She was thirsty, hungry, the ache of her injuries still harsh. The stench of her shitbucket overlay the shipboard smells of tar and pitch and bilge and unwashed humans. She lay quietly, wincing, listening, judging the motion of the ship. It was the slow listless swing of a vessel becalmed. There was a low thud and clack from above, confirming the fact: the boom was jerking idly with the roll of the ship.
+Hrafney gasped and flailed, suddenly feeling warm, warm and sticky. She was lying on scratchy, dirty sacking in the darkness, feeling a slow uneasy side-to-side motion. She was thirsty, hungry, the ache of her injuries still harsh. The stench of her shitbucket overlay the shipboard smells of tar and pitch and bilge and unwashed humans. She lay quietly, wincing, listening, judging the motion of the ship. It was the slow listless swing of a vessel becalmed. There was a low thud and clack from above, confirming the fact: the boom was jerking idly with the roll of the ship. The _Elang Laut_ was idly floating, not sailing.
 
 _Well,_ she thought, _perhaps I will not die today._
 
@@ -44,4 +44,13 @@ The air from outside was scant relief, moist and dead, but less laden with ship 
 
 Always Hrafney had disliked dead days becalmed, enduring them with a caged impatience. Dead air and dead water; trash thrown overboard still floating alongside two days later unless there were sharks. Feeling a film on the skin that would not go away even with scrubbing—if you were fool enough to draw up a bucket of the fouled water that gathered around the hull. But this morning, leaning her aching body against the inside of the hull, everything about the sullen weather seemed beyond praise.
 
+Behind her the hatch to the improvised brig was unbarred and swung back. It was her keeper, the Blue Woman, Kianshing, a dim slender shape. She gave Hrafney a murmured greeting, not meeting her eyes. 
+
+"Day's greeting, Kianshing." The sailors of the Northern Pacific spoke the Paritid dialect, compounded of Nihono, Hespen, Siberian, and tag ends of other languages. Hrafney spoke it pretty well—better than Kianshing, who had come aboard from some harbor in Kamchaka. The Blue Woman came closer. She was, in her way, an attractive person; which, Hrafney thought distantly, probably wasn't a great advantage for a whore and a cook's helper. But Kianshing seemed especially diminished in the weak light.
+
+The Blue Woman grimaced when she saw the nearly-full shitbucket. She was not obligated to dump it, but she had seen the mess when Hrafney, with her injured arm, had first tried to empty it through the sidescuttle. Thereafter she had always just dealt with it, taking it up on deck to throw over the side. Kianshing was not without kindness, which made her better, in Hrafney's eyes, than many of the sailors. Even the Paritids were often cruel and heedless, but the Musis and Shakorta that had made up an increasing proportion of the crew as the _Elang Laut_ had coasted south were harsh to women as a matter of custom—of ideology, really. "You are good to me when you do not have to be," Hrafney said quietly. "Thank you for that." She had never known how Kianshing might take even a well-meant remark: Blue Women were usually distracted and a bit befuddled by the variant cannabis that stained their skins with wandering marks like faded old tattoos, but there was something more about Kianshing. Maybe she was just a timid soul—_although why under sky would a timid person go to sea?_, she thought—but she suspected that many of the sailors mistreated her.
+
+Kianshing raised her eyes, looked up into Hrafney's battered face. "I am sorry," she said. "...I have lived on or by the sea for my entire life. I think... the wind will come up soon. Not today, perhaps. But soon." She bowed her head unhappily. "I am sorry," she said again. Then she stepped out of the brig, a small slim figure carrying a bucket of shit with caution and accustomed repugnance. At the hatchway she turned for a moment. 
+
+"I am glad you killed them," she said.
 
