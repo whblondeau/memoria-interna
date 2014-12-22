@@ -15,6 +15,9 @@ Reykjavik: 64° 8′ 0″ N, 21° 56′ 0″ W
 
 _innrihugur:_ Icelandic name for the mental mnemonic and visualization space. Equivalent to Spanish "memoria interna". 
 
+#### The Ship __
+
+Similar to the Australian schooner Alma Doepel
 
 #### Resources
 
