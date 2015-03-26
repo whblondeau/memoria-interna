@@ -1,6 +1,6 @@
 # The Mountains Of Groenland
 
-Hrafney stood on a rough hogback ridge, the peak of XXXX, 67XX meters: a thin, tall blade of rock. A sharp tooth of the world, towering in the magnificent night. Icy wind howled past her, but didn't buffet her. The rock felt rough and cold under her bare feet. Scant meters away it dropped into black gulfs of shadow. The wind pulled her towards the brink, but she balanced herself with equanimity. Hrafney had a mild smile that struck onlookers as somehow terribly generous; she smiled that smile into the wind, her hair whipping back.
+Hrafney stood on a rough hogback ridge: a thin, tall blade of rock. A sharp tooth of the world, towering in the magnificent night. Icy wind howled past her, but didn't buffet her. The rock felt rough and cold under her bare feet. Scant meters away it dropped into black gulfs of shadow. The wind pulled her towards the brink, but she balanced herself with equanimity.
 
 Stars lifted like sparks and clouds in the crystalline sky on either hand. Icy wind howled past, but didn't discomfit her. The rock felt rough and cold under her bare feet. Scant meters away it dropped into black gulfs of shadow to right and left: the lands or seas or icefields below were unseen, because she didn't yet know where she was. The wind pulled her towards the brink, but she balanced herself with equanimity. Hrafney had a mild generous smile; she smiled that one into the wind, her hair whipping back in the night.
 
