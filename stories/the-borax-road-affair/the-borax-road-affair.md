@@ -135,7 +135,7 @@ Dangerous to heed your own Singing too well:
 If it's your wish to fight me sword to sword I cannot decline
 Your Song compels me to stand forth;
 Yet in justice I must tell you:
-You're going to need another blade.&#8221;
+You're going to need another blade.&#8221;</i>
 </pre>
 
 &#8220;For so it was. Heitor&apos;s scabbard was empty; and neither he nor his seconds could well recall when it had been taken, slipped silently in passing, eased from the sheath when Dun Heitor, the great Singer, was distracted by the power of his own great verses.&#8221;
