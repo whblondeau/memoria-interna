@@ -1,3 +1,7 @@
+_Copyright&copy; Bill Blondeau, 2014, 2015; all rights reserved_
+<hr/>
+
+
 # The Mountains Of Groenland
 
 Hrafney stood on a rough hogback ridge: a thin, tall blade of rock. A sharp tooth of the world, towering in the magnificent night. Icy wind howled past her, but didn't buffet her. The rock felt rough and cold under her bare feet. Scant meters away it dropped into black gulfs of shadow. The wind pulled her towards the brink, but she balanced herself with equanimity.
