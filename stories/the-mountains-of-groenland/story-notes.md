@@ -1,3 +1,7 @@
+_Copyright&copy; Bill Blondeau, 2014, 2015; all rights reserved_
+<hr/>
+
+
 ### Notes on "The Mountains of Groenland"
 
 Story opens April 22, 2560 Gregorian.
