@@ -1,3 +1,7 @@
+_Copyright&copy; Bill Blondeau, 2014; all rights reserved_
+<hr/>
+
+
 ## The Borax Road Affair
 
 <br />
